@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "serper": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-google-search"
+            ],
+            "env": {
+                "SERPER_API_KEY": "6bac8bfde993078eb6c7e4442da811d68850deef"
+            }
+        }
+    }
+}
