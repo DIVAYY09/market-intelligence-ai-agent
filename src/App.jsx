@@ -8,7 +8,7 @@ function App() {
   const [selectedSignal, setSelectedSignal] = useState(null);
 
   useEffect(() => {
-    fetch('/data/social_signals.json')
+    fetch(`${import.meta.env.BASE_URL}data/social_signals.json`)
       .then(res => res.json())
       .then(data => {
         setSignals(data);

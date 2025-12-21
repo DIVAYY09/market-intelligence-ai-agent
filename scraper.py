@@ -2,6 +2,7 @@ import os
 import argparse
 import time
 import json
+import webbrowser
 import uuid
 import requests
 from datetime import datetime
@@ -155,6 +156,11 @@ def main():
     final_results = scorer.score_headlines("Multi-Sector", all_raw_items)
         
     save_signals(final_results)
+    
+    # Auto-open the dashboard
+    dashboard_url = "http://localhost:5177/market-intelligence-ai-agent/"
+    print(f"Opening dashboard at {dashboard_url}...")
+    webbrowser.open(dashboard_url)
 
 if __name__ == "__main__":
     main()
