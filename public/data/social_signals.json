@@ -1,49 +1,15 @@
 [
   {
-    "id": "3ee95ce8-fb3d-437a-a6bc-7599c8af495a",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Generative AI could 'upend' 300 million jobs globally, according to Goldman Sachs.",
-    "sentiment": "negative",
-    "relevant": true,
-    "score": 9.4,
-    "time": "3 hours ago",
-    "brief": "This forecast from Goldman Sachs indicates a massive potential disruption to the global job market due to Generative AI. It signifies a profound shift in employment landscapes that will require significant adaptation. Product managers need to understand how AI will reshape industries and workforce demands to align product strategies with future needs.",
-    "link": "https://www.linkedin.com/posts/lucygilmour-careercoach_the-ai-gap-why-90-of-employees-are-about-activity-7413700874260197377-ynS_",
-    "metrics": {
-      "utility": 9,
-      "novelty": 8,
-      "impact": 10
-    }
-  },
-  {
-    "id": "9c9819cc-2dd2-42e1-a2bd-e1e6f37d8b4e",
+    "id": "3ee57143-bd44-4027-871c-73bc447693cb",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "MHRA opens call for evidence on AI in healthcare, aiming to shape regulation for patient protection and innovation.",
-    "sentiment": "neutral",
-    "relevant": true,
-    "score": 9.3,
-    "time": "10 hours ago",
-    "brief": "The MHRA's initiative to gather evidence on AI in healthcare is a crucial step towards establishing regulatory frameworks. This will directly impact the development and deployment of AI in the healthcare sector. Product managers must closely follow these regulatory discussions to ensure compliance and foster trust in AI-driven healthcare solutions.",
-    "link": "https://x.com/yuriquintana/status/2007833924299538787?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 9,
-      "novelty": 8,
-      "impact": 9
-    }
-  },
-  {
-    "id": "aaabd859-5b5e-446e-b80e-2eb65dc47517",
-    "name": "Blockchain News",
-    "ticker": "Blockchain News",
-    "signal": "Google Gemini launches Guided Learning AI for personalized tutoring, enhancing educational experiences.",
+    "signal": "Nvidia Announces Rubin Chips; Elon Musk Praises as 'Rocket Engine for AI'",
     "sentiment": "positive",
     "relevant": true,
-    "score": 9.1,
-    "time": "5 hours ago",
-    "brief": "Google's introduction of Guided Learning AI is a major step towards personalized education at scale. This feature has the potential to revolutionize how students learn by offering tailored support. Product managers should analyze its impact on online learning platforms and consider similar AI-driven tutoring solutions.",
-    "link": "https://blockchain.news/ainews/google-gemini-launches-guided-learning-ai-feature-step-by-step-personalized-tutoring-for-any-topic",
+    "score": 8.9,
+    "time": "2 hours ago",
+    "brief": "Nvidia's new Rubin chips are described by Elon Musk as a 'rocket engine for AI,' emphasizing their critical role in training and deploying large-scale frontier models. This advancement in AI infrastructure is poised to significantly accelerate AI development and adoption. The performance and scalability of these chips will likely set new benchmarks in the industry.",
+    "link": "https://x.com/SawyerMerritt/status/2008312017069752513?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 9,
       "novelty": 8,
@@ -51,16 +17,84 @@
     }
   },
   {
-    "id": "2ba77e63-4dd5-4026-9526-491df9ed1164",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Generative AI use cases are being explored in Finance, highlighting its growing applicability.",
-    "sentiment": "neutral",
+    "id": "ec8083da-0d3b-4b0b-9ef3-7c7b1c53a5f2",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Eliza & Kickdrum Launch OpenAI Technical Training Academy",
+    "sentiment": "positive",
+    "relevant": true,
+    "score": 8.4,
+    "time": "8 hours ago",
+    "brief": "Eliza and Kickdrum are joining forces to launch an OpenAI Technical Training Academy to meet the surging demand for production-ready OpenAI solutions. This initiative directly addresses the critical need for skilled engineers in AI deployment. The academy will provide immediate capacity for clients seeking to implement OpenAI technologies.",
+    "link": "https://www.linkedin.com/posts/elizahq_big-news-to-meet-surging-demand-for-production-ready-activity-7413989448989995008-tqjB",
+    "metrics": {
+      "utility": 9,
+      "novelty": 8,
+      "impact": 8
+    }
+  },
+  {
+    "id": "584da52a-6f9c-4461-ab9c-49e96eed5a3d",
+    "name": "openPR.com",
+    "ticker": "openPR.com",
+    "signal": "Storibot Introduces Narrative Intelligence to EdTech",
+    "sentiment": "positive",
+    "relevant": true,
+    "score": 8.1,
+    "time": "13 hours ago",
+    "brief": "Storibot's introduction of narrative intelligence to EdTech companies represents a novel approach to content creation and engagement. This innovation aims to transform how educational content is delivered and experienced.  The application of narrative intelligence could lead to more compelling and effective learning materials.",
+    "link": "https://www.openpr.com/news/4334866/storibot-s-narrative-revolution-reshaping-edtech-s-grand",
+    "metrics": {
+      "utility": 8,
+      "novelty": 9,
+      "impact": 7
+    }
+  },
+  {
+    "id": "dca9be1d-21d6-4771-916b-24321c9803db",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Pay10 UAE & CBD Launch Open Finance Services",
+    "sentiment": "positive",
+    "relevant": true,
+    "score": 8.0,
+    "time": "19 hours ago",
+    "brief": "The launch of Open Finance services by Pay10 UAE and Commercial Bank of Dubai is a significant milestone for the UAE's financial ecosystem. This initiative under the AlTareq Open Finance Initiative brings advanced open finance capabilities to retail customers. It signals a move towards a more integrated and customer-centric financial future in the UAE.",
+    "link": "https://www.linkedin.com/posts/hussamkayyal_openfinance-fintech-uae-activity-7413825505340170241-SWdA",
+    "metrics": {
+      "utility": 8,
+      "novelty": 8,
+      "impact": 8
+    }
+  },
+  {
+    "id": "36e55218-0add-4de5-a1e8-3c3c3fc7c996",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Flutterwave Acquires Open Banking Firm Mono",
+    "sentiment": "positive",
+    "relevant": true,
+    "score": 7.9,
+    "time": "10 hours ago",
+    "brief": "Flutterwave's acquisition of Mono indicates a strategic move to strengthen its payment infrastructure with open banking capabilities. This integration is crucial for future financial infrastructure development. The combined entities can offer more innovative and connected financial services across Africa.",
+    "link": "https://www.linkedin.com/posts/fintech-finance_flutterwave-expands-payments-infrastructure-activity-7413960491967987712-Iuo7",
+    "metrics": {
+      "utility": 8,
+      "novelty": 7,
+      "impact": 8
+    }
+  },
+  {
+    "id": "8972fdea-86ef-4654-a7f0-5626fe5be28d",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "AI in Healthcare Shifts from Promise to Practice",
+    "sentiment": "positive",
     "relevant": true,
     "score": 7.9,
     "time": "8 hours ago",
-    "brief": "The exploration of Generative AI in finance signifies a major technological shift impacting the industry. Product managers should be aware of how AI can automate tasks, improve customer experiences, and drive innovation. Understanding these use cases is crucial for developing future financial products and services.",
-    "link": "https://x.com/Ronald_vanLoon/status/2007865866717733138?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "brief": "AI in healthcare has transitioned from theoretical potential to practical application, demonstrating tangible impact across discovery, diagnostics, and patient care. This shift is being observed in real-world scenarios, indicating significant market progress. The acceleration of AI adoption in healthcare presents numerous opportunities for innovation and efficiency gains.",
+    "link": "https://www.linkedin.com/posts/joe-daccache_jpm-ai-data-activity-7413984784789471233-uqee",
     "metrics": {
       "utility": 8,
       "novelty": 7,
@@ -68,50 +102,50 @@
     }
   },
   {
-    "id": "34168e9f-60ba-43fd-ab50-d214ce290121",
-    "name": "EdTech Innovation Hub",
-    "ticker": "EdTech Innovation Hub",
-    "signal": "OpenAI launches an AI academy to support journalists and newsroom teams.",
-    "sentiment": "positive",
-    "relevant": true,
-    "score": 7.9,
-    "time": "57 minutes ago",
-    "brief": "The launch of an AI academy by OpenAI for journalists is a significant development in applying AI to media and information dissemination. It suggests that AI is poised to transform news production and consumption. Product managers should consider how AI tools can enhance journalistic workflows and content creation.",
-    "link": "https://www.edtechinnovationhub.com/news/openai-introduces-ai-academy-to-support-journalists-and-newsroom-teams",
-    "metrics": {
-      "utility": 8,
-      "novelty": 7,
-      "impact": 8
-    }
-  },
-  {
-    "id": "d36756ff-38ed-4878-958e-024710480ba1",
-    "name": "The Korea Times",
-    "ticker": "The Korea Times",
-    "signal": "Advanced AI and robotics are set to be highlights at CES 2026.",
-    "sentiment": "positive",
-    "relevant": true,
-    "score": 7.9,
-    "time": "9 hours ago",
-    "brief": "The anticipation of advanced AI and robotics at CES 2026 signifies major technological advancements and their integration into consumer and enterprise products. This suggests a trend towards more sophisticated automation and intelligent systems. Product managers should stay informed about emerging AI and robotics applications showcased at major tech events.",
-    "link": "https://www.koreatimes.co.kr/business/companies/20260105/ces-2026-advanced-ai-robotics-set-to-steal-limelight-at-ces-2026",
-    "metrics": {
-      "utility": 7,
-      "novelty": 8,
-      "impact": 8
-    }
-  },
-  {
-    "id": "9c2584df-dd70-43c1-91bb-b78186be4e47",
+    "id": "a9197d54-3519-44d5-8ce3-6c4c895f724f",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "IBM offers 'Generative AI for Educators Specialization', emphasizing AI integration in learning.",
+    "signal": "Open Digital Health Platforms Becoming Reality in 2026",
     "sentiment": "positive",
     "relevant": true,
+    "score": 7.9,
+    "time": "13 hours ago",
+    "brief": "Open digital health platforms are moving from strategic concepts to everyday implementation in 2026, supported by NHS plans and increased AI integration. This trend signifies a move towards greater interoperability and accessibility in healthcare. The widespread adoption of open platforms is likely to enhance data sharing and patient empowerment.",
+    "link": "https://www.linkedin.com/posts/bettercareit_digitalhealth-openehr-sharedcarerecord-activity-7413915536587235328-uLgz",
+    "metrics": {
+      "utility": 8,
+      "novelty": 7,
+      "impact": 8
+    }
+  },
+  {
+    "id": "57d267ee-ab8e-4d78-a720-27775707902b",
+    "name": "BlueRidgeNow.com",
+    "ticker": "BlueRidgeNow.com",
+    "signal": "New Platform Challenges AI Hype, Advocates Embodied Intelligence",
+    "sentiment": "neutral",
+    "relevant": true,
+    "score": 7.6,
+    "time": "19 hours ago",
+    "brief": "A new platform is challenging the current AI industry hype by advocating for embodied intelligence over language models, questioning trillion-dollar AI valuations. This perspective suggests that robotics and physical AI represent the true future.  This contrarian view could shift investment and research focus towards more tangible AI applications.",
+    "link": "https://www.blueridgenow.com/press-release/story/50965/new-platform-challenges-ai-industry-hype-advocates-for-embodied-intelligence-over-language-models/",
+    "metrics": {
+      "utility": 7,
+      "novelty": 9,
+      "impact": 7
+    }
+  },
+  {
+    "id": "10f31cf0-c1e7-40ee-861f-a2d3f61b5623",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Amazon Scales AI Education Initiative",
+    "sentiment": "positive",
+    "relevant": false,
     "score": 7.5,
-    "time": "16 hours ago",
-    "brief": "The development of AI specializations for educators signifies a proactive approach to integrating AI into the education system. This highlights the growing need for AI literacy and skills across all sectors. Product managers in EdTech should consider how to leverage AI for educational tools and content.",
-    "link": "https://www.linkedin.com/posts/manan2k2_generativeai-artificialintelligence-educationtechnology-activity-7413510432142852096-Ardr",
+    "time": "15 hours ago",
+    "brief": "Amazon is doubling its investment in its AI education initiative to reach 500,000 students, driven by overwhelming demand. This highlights the critical and growing need for AI skills training to prepare the future workforce.  The expansion underscores the importance of accessible AI education for economic competitiveness.",
+    "link": "https://x.com/DailyAITechNews/status/2008113335460401230?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 8,
       "novelty": 7,
@@ -119,33 +153,16 @@
     }
   },
   {
-    "id": "77332793-1292-46e7-938f-8b033aa11c0a",
-    "name": "The Hans India",
-    "ticker": "The Hans India",
-    "signal": "Engineering students to receive generative AI training through MoU with Knowvation Learnings, My Spark Academy, and Speed Labs.",
-    "sentiment": "positive",
-    "relevant": true,
-    "score": 7.5,
-    "time": "22 hours ago",
-    "brief": "The collaboration to provide generative AI training to engineering students is a strategic move to prepare the future workforce for AI-driven industries. This indicates a strong demand for AI skills in engineering. Product managers should recognize the importance of upskilling talent and consider how educational initiatives shape the talent pool.",
-    "link": "https://www.thehansindia.com/telangana/engg-students-to-receive-generative-ai-training-1036280",
-    "metrics": {
-      "utility": 8,
-      "novelty": 7,
-      "impact": 7
-    }
-  },
-  {
-    "id": "2c76e24e-e0cd-4fde-832c-dff5fb047b0e",
-    "name": "Poets&Quants for Undergrads",
-    "ticker": "Poets&Quants for Undergrads",
-    "signal": "Degree2Destiny, an EdTech/AI startup from Northeastern University, recognized as a disruptive business school startup.",
+    "id": "d92c4041-8747-49b7-b250-a87aea0e0335",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "New Chair for EDSAFE AI Alliance Industry Council",
     "sentiment": "positive",
     "relevant": false,
     "score": 7.3,
-    "time": "7 hours ago",
-    "brief": "This highlights a promising EdTech startup focusing on AI and career guidance. It indicates innovation at the intersection of education and technology, specifically addressing student pathways. Product managers can observe the solutions provided by such startups for potential integration or competitive insights.",
-    "link": "https://poetsandquantsforundergrads.com/students/2025-most-disruptive-business-school-startups-degree2destiny-northeastern-university-damore-mckim/",
+    "time": "10 hours ago",
+    "brief": "The appointment of a new Chair for the EDSAFE AI Alliance Industry Council indicates a strengthened focus on the safe and equitable application of AI in education. This global coalition aims to ensure AI enhances human potential and educational outcomes. The focus on safety and equity is critical as AI integration in education accelerates.",
+    "link": "https://www.linkedin.com/posts/jason-green-3a42884_aiineducation-responsibleai-edsafeai-activity-7413961243000135680-jcI-",
     "metrics": {
       "utility": 7,
       "novelty": 8,
@@ -153,169 +170,237 @@
     }
   },
   {
-    "id": "39a61535-c0cb-483a-a590-29f2fadcf5f6",
+    "id": "aede0dc9-b941-4ccb-8000-98d383ed7797",
+    "name": "EdTech Innovation Hub",
+    "ticker": "EdTech Innovation Hub",
+    "signal": "Former Facebook AI Veteran Joins AMI Labs",
+    "sentiment": "positive",
+    "relevant": false,
+    "score": 7.3,
+    "time": "22 minutes ago",
+    "brief": "The move of a former Facebook AI veteran to Advanced Machine Intelligence Labs (AMI Labs) signifies a significant infusion of expertise into the company. This addition could accelerate AMI Labs' advancements in artificial intelligence. It highlights the ongoing talent migration and strategic hires in the AI sector.",
+    "link": "https://www.edtechinnovationhub.com/news/former-facebook-ai-veteran-yann-lecun-confirms-executive-chair-role-at-ami-labs",
+    "metrics": {
+      "utility": 7,
+      "novelty": 8,
+      "impact": 7
+    }
+  },
+  {
+    "id": "c4066eec-7259-4eb2-bc5c-5a9056e5506e",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "India faces a healthcare crisis with rising rates of fatty liver, diabetes, and heart diseases, stressing the need for health insurance.",
-    "sentiment": "negative",
+    "signal": "Regulating Financial Innovation: Key Considerations",
+    "sentiment": "neutral",
     "relevant": false,
-    "score": 7.1,
-    "time": "19 hours ago",
-    "brief": "This highlights a critical public health issue in India with significant implications for the healthcare industry. The rise in chronic diseases necessitates proactive health management and insurance solutions. Product managers in health tech and insurance can identify opportunities to address these growing health concerns.",
-    "link": "https://x.com/Ravisutanjani/status/2007686322794967100?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "score": 7.0,
+    "time": "14 hours ago",
+    "brief": "This discussion highlights the complex challenges and necessary considerations for regulating financial innovation effectively. It touches upon areas like Fintech, Finserv, digital assets, and AI. Understanding these regulatory frameworks is crucial for sustainable growth and consumer protection in the financial sector.",
+    "link": "https://x.com/nafisalam/status/2008130010440499653?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 7,
+      "novelty": 7,
+      "impact": 7
+    }
+  },
+  {
+    "id": "764c4be6-64c5-4750-b34f-0c3f1cc776af",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "India's Responsible AI Approach in Finance",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 7.0,
+    "time": "21 hours ago",
+    "brief": "India is focusing on a balanced approach to AI adoption in finance, emphasizing governance and risk management alongside innovation. This discussion involves key financial institutions and regulators. This policy framework could set a precedent for other emerging markets looking to leverage AI responsibly.",
+    "link": "https://x.com/GffFintechfest/status/2008018114382790977?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 7,
+      "novelty": 7,
+      "impact": 7
+    }
+  },
+  {
+    "id": "d0b829c6-8d68-424d-9d8a-ca3c771735a9",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Reduced Radiation Exposure in Aortic Repair",
+    "sentiment": "positive",
+    "relevant": false,
+    "score": 7.0,
+    "time": "9 hours ago",
+    "brief": "Clinical evidence shows up to 30% less radiation exposure with improved overhead arm positioning in complex aortic repair. This refinement in technique offers significant benefits to both patients and operators. The focus on optimizing procedural safety and reducing exposure is crucial in interventional medicine.",
+    "link": "https://www.linkedin.com/posts/radmagazine_radmagazine-radiology-healthcare-activity-7413974592236593152-EtbJ",
+    "metrics": {
+      "utility": 7,
+      "novelty": 6,
+      "impact": 7
+    }
+  },
+  {
+    "id": "fe88a719-0e0b-48f3-9a10-7eb95ab31e3e",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "EdTech Overcomes Distance Barriers in Modern Education",
+    "sentiment": "positive",
+    "relevant": false,
+    "score": 6.9,
+    "time": "9 hours ago",
+    "brief": "This article discusses how EdTech is instrumental in breaking down geographical barriers in education, facilitating remote and lifelong learning. It underscores the importance of digital education in an increasingly connected world.  The ongoing evolution of EdTech is crucial for providing flexible and accessible learning opportunities globally.",
+    "link": "https://x.com/EdTech_Awards/status/2008208130690216418/photo/1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 7,
       "novelty": 5,
-      "impact": 8
-    }
-  },
-  {
-    "id": "5032ac50-4873-4642-b1f1-9c6b2cacba4e",
-    "name": "Laboratory News",
-    "ticker": "Laboratory News",
-    "signal": "FreshCheck funding enables expansion into healthcare applications with hygiene verification technology.",
-    "sentiment": "positive",
-    "relevant": false,
-    "score": 7.1,
-    "time": "2 hours ago",
-    "brief": "This indicates a new application for hygiene verification technology in the healthcare sector, supported by funding. It suggests an innovation that can improve safety and compliance in healthcare settings. Product managers can consider the potential of such technologies in enhancing healthcare operational efficiency and patient safety.",
-    "link": "https://www.labnews.co.uk/article/2098556/freshcheck-funding-enables-expansion-into-healthcare-applications",
-    "metrics": {
-      "utility": 7,
-      "novelty": 7,
       "impact": 7
     }
   },
   {
-    "id": "11898eed-2923-4708-a55a-7d12dc5cf617",
-    "name": "Sharecafe",
-    "ticker": "Sharecafe",
-    "signal": "Cathie Wood's ARKF ETF defies market downturn with strong 2025 returns, driven by blockchain and fintech.",
-    "sentiment": "positive",
-    "relevant": false,
-    "score": 6.7,
-    "time": "4 minutes ago",
-    "brief": "This indicates a resilient performance in a challenging market for a specific tech-focused ETF. It suggests that certain segments within blockchain and fintech are outperforming broader trends. Investors and product developers in these areas can learn from the strategies driving this success.",
-    "link": "https://www.sharecafe.com.au/2026/01/05/arkf-defies-downturn-with-29-per-cent-return/",
-    "metrics": {
-      "utility": 7,
-      "novelty": 6,
-      "impact": 7
-    }
-  },
-  {
-    "id": "5c45211f-561b-4408-8aae-4154509713e7",
-    "name": "Bitget",
-    "ticker": "Bitget",
-    "signal": "Crypto ETFs show profit in 2025 despite market decline; ARKF leads with nearly 30% return.",
-    "sentiment": "positive",
-    "relevant": false,
-    "score": 6.7,
-    "time": "11 hours ago",
-    "brief": "This data highlights pockets of success within the cryptocurrency investment space, even during a general market slump. It suggests that specific crypto-related investments can offer significant returns. Product managers should note the potential for specialized investment products that can navigate volatile markets.",
-    "link": "https://www.bitget.com/amp/news/detail/12560605129631",
-    "metrics": {
-      "utility": 7,
-      "novelty": 6,
-      "impact": 7
-    }
-  },
-  {
-    "id": "1b233fcc-88e1-4d28-8b3d-df2b8303338c",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Cryotherapy tech offers pain relief, showcasing advancements in MedTech and healthcare innovation.",
-    "sentiment": "positive",
-    "relevant": false,
-    "score": 6.7,
-    "time": "12 hours ago",
-    "brief": "This headline points to an innovative healthcare technology aimed at pain management. It signifies progress in medical technology and the application of tech for well-being. Product managers can explore the potential of such specialized medical devices and therapies.",
-    "link": "https://x.com/Ronald_vanLoon/status/2007803725843194193?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 7,
-      "novelty": 6,
-      "impact": 7
-    }
-  },
-  {
-    "id": "4db6b1db-9733-438e-919f-1b1e123f2a47",
-    "name": "TipRanks",
-    "ticker": "TipRanks",
-    "signal": "Unisound AI secures over RMB20 million in regional healthcare AI contracts, demonstrating market traction.",
-    "sentiment": "positive",
-    "relevant": false,
-    "score": 6.7,
-    "time": "2 hours ago",
-    "brief": "This demonstrates significant business wins for an AI company in the healthcare sector. It indicates a growing demand for AI solutions within regional healthcare markets. Product managers can identify this as a sign of market growth and potential for AI-driven healthcare services.",
-    "link": "https://www.tipranks.com/news/company-announcements/unisound-ai-wins-over-rmb20-million-in-regional-healthcare-ai-contracts",
-    "metrics": {
-      "utility": 7,
-      "novelty": 6,
-      "impact": 7
-    }
-  },
-  {
-    "id": "fd658cf3-1ff0-4e61-b46f-aea3cb3bbfc4",
-    "name": "Times of India",
-    "ticker": "Times of India",
-    "signal": "China's DeepSeek AI research could vindicate its earlier claims and impact the US stock market.",
+    "id": "1aa61bfb-d9ee-4a4a-b64a-1e71f3a7798c",
+    "name": "TechTarget",
+    "ticker": "TechTarget",
+    "signal": "2026: The Year Healthcare Opens Digital Front Door?",
     "sentiment": "neutral",
     "relevant": false,
-    "score": 6.7,
-    "time": "22 hours ago",
-    "brief": "This highlights the competitive landscape in AI development, particularly between Chinese and US companies. The potential impact on stock markets underscores the financial significance of AI breakthroughs. Product managers can monitor global AI developments for competitive intelligence and market opportunities.",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/chinas-deepseek-that-wiped-billions-from-us-stock-market-in-january-2025-sends-new-years-message-to-american-companies/articleshow/126318862.cms",
-    "metrics": {
-      "utility": 6,
-      "novelty": 7,
-      "impact": 7
-    }
-  },
-  {
-    "id": "907c4b59-5f16-4ae0-8745-c6d5836029d4",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Baptist Health System sues United Healthcare over alleged underpayment of emergency room claims.",
-    "sentiment": "negative",
-    "relevant": false,
-    "score": 6.2,
-    "time": "22 hours ago",
-    "brief": "This legal action underscores ongoing disputes between healthcare providers and insurance companies regarding billing and reimbursement. It highlights potential inefficiencies and conflicts in the healthcare payment system. Product managers should be aware of these challenges when developing solutions related to revenue cycle management or claims processing.",
-    "link": "https://www.linkedin.com/posts/san-antonio-express-news_baptist-health-system-of-san-antonio-is-suing-activity-7413413970633633792-Qg9_",
-    "metrics": {
-      "utility": 6,
-      "novelty": 4,
-      "impact": 7
-    }
-  },
-  {
-    "id": "3b446869-dfd4-4ba8-8e5a-994d625d0f2d",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Books on teaching AI and essential skills for the future are promoted, covering topics like digital citizenship and STEM.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 6.1,
-    "time": "20 hours ago",
-    "brief": "The promotion of books focused on teaching AI and future-ready skills indicates a growing emphasis on equipping individuals with necessary competencies. This is relevant for product development in educational technology and professional training. It highlights the importance of curriculum design that incorporates AI and digital skills.",
-    "link": "https://x.com/Rdene915/status/2007674613652689207?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 7,
-      "novelty": 6,
-      "impact": 6
-    }
-  },
-  {
-    "id": "1b048f25-30d3-4d46-8062-e8efe2dddcb5",
-    "name": "MSN",
-    "ticker": "MSN",
-    "signal": "Extendicare expands home health care with CBI acquisition for $570 million.",
-    "sentiment": "positive",
-    "relevant": false,
-    "score": 6.1,
+    "score": 6.9,
     "time": "5 hours ago",
-    "brief": "This significant acquisition signals substantial growth and consolidation in the home health care sector. It highlights a strategic move to expand market reach and service offerings. Product managers in the healthcare services industry should monitor M&A activity to understand market consolidation and competitive landscapes.",
-    "link": "http://www.msn.com/en-us/money/markets/extendicare-expands-home-health-care-business-with-cbi-acquisition/ar-AA1QMivk?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "brief": "The year 2026 is presented as a potential turning point for healthcare to fully embrace digital front doors, requiring organizations to reassess patient needs and resources. This suggests a growing emphasis on digital patient engagement and accessibility.  Meeting patient demands for digital convenience will be key to success in the evolving healthcare landscape.",
+    "link": "https://www.techtarget.com/patientengagement/feature/Is-2026-the-year-healthcare-will-open-the-digital-front-door",
+    "metrics": {
+      "utility": 7,
+      "novelty": 6,
+      "impact": 7
+    }
+  },
+  {
+    "id": "db8d312e-4fdf-4f79-8883-274db72abf79",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Egyptian EdTech Startup 'Business For Teens' Secures Funding",
+    "sentiment": "positive",
+    "relevant": false,
+    "score": 6.6,
+    "time": "11 hours ago",
+    "brief": "The Egyptian EdTech startup 'Business For Teens' has successfully raised pre-seed funding, signaling strong investor confidence in the region's education technology market. The funding will accelerate expansion across Egypt and the Gulf, with existing partnerships in schools. This growth highlights the increasing demand for innovative EdTech solutions in emerging markets.",
+    "link": "https://www.linkedin.com/posts/westpostnews_edtech-startup-funding-activity-7413944363946233857-ODws",
+    "metrics": {
+      "utility": 7,
+      "novelty": 6,
+      "impact": 6
+    }
+  },
+  {
+    "id": "926c30f2-d04a-4666-afa7-ed37e4370995",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Thuto.io Expands with AI-Driven EdTech Platform",
+    "sentiment": "positive",
+    "relevant": false,
+    "score": 6.6,
+    "time": "17 hours ago",
+    "brief": "Thuto.io is broadening its reach with an EdTech platform that integrates AI-driven learning and real-time progress tracking. This combination offers personalized learning experiences and efficient monitoring of student development.  The focus on AI and data-driven insights is a key trend in modern educational technology.",
+    "link": "https://x.com/ITWeb/status/2008080807148011748?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 7,
+      "novelty": 6,
+      "impact": 6
+    }
+  },
+  {
+    "id": "02bc0fbe-77b3-4ee9-ad26-b45e33959efb",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Assoc. Platform's Impact Featured in Healthcare IT News",
+    "sentiment": "positive",
+    "relevant": false,
+    "score": 6.6,
+    "time": "3 hours ago",
+    "brief": "The real-world impact of a platform, as featured in Healthcare IT News, highlights its value and purpose. The article showcases the 'why' behind the platform's development. Positive coverage in industry publications validates the product's efficacy and market relevance.",
+    "link": "https://www.linkedin.com/posts/jonxwang_physician-practice-sees-dramatic-difference-activity-7414059380813410304-Syjx",
+    "metrics": {
+      "utility": 7,
+      "novelty": 6,
+      "impact": 6
+    }
+  },
+  {
+    "id": "9172cc7e-9527-4822-a64e-9c93cc0b902e",
+    "name": "Investor's Business Daily",
+    "ticker": "Investor's Business Daily",
+    "signal": "AI Stocks at a Crossroads After 2025 Gains",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 6.5,
+    "time": "12 hours ago",
+    "brief": "AI stocks are at a critical juncture following significant gains in 2025, with pullbacks indicating a market re-evaluation. The focus is on AI stocks that generate revenue or possess strategic advantages in the rapidly evolving technology landscape. Investors are likely scrutinizing performance and competitive positioning within the AI sector.",
+    "link": "https://www.investors.com/news/technology/artificial-intelligence-stocks/",
+    "metrics": {
+      "utility": 6,
+      "novelty": 6,
+      "impact": 7
+    }
+  },
+  {
+    "id": "6f825601-f343-4a7f-b7a3-ceff8d38ee25",
+    "name": "Transport Topics",
+    "ticker": "Transport Topics",
+    "signal": "AI Takes Spotlight Again at CES",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 6.5,
+    "time": "9 hours ago",
+    "brief": "AI is once again a central theme at CES, with advances across robotics, healthcare, vehicles, and gaming being showcased. This recurring focus underscores AI's pervasive influence and its role in driving innovation across diverse industries. The integration of AI into various consumer and industrial applications continues to expand.",
+    "link": "https://www.ttnews.com/articles/ai-takes-spotlight-ces",
+    "metrics": {
+      "utility": 6,
+      "novelty": 6,
+      "impact": 7
+    }
+  },
+  {
+    "id": "21f64427-d486-4ddf-86c5-0d9b6c9cf253",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Teens Prefer Relational AI Chatbots",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 6.4,
+    "time": "18 hours ago",
+    "brief": "New research suggests teenagers connect better with AI chatbots that simulate 'best friend' relationships rather than purely transparent systems. This finding has implications for the design and development of AI in educational and social contexts. Product managers should consider the relational aspect when designing AI interactions for younger audiences.",
+    "link": "https://www.linkedin.com/posts/rickspair_edtech-ai-chatbots-activity-7413831191755173888-u0Vs",
+    "metrics": {
+      "utility": 6,
+      "novelty": 7,
+      "impact": 6
+    }
+  },
+  {
+    "id": "79a56685-ad78-4844-b88e-4205812ad854",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "EdTech Enhances Student Learning Strategies",
+    "sentiment": "positive",
+    "relevant": false,
+    "score": 6.3,
+    "time": "21 hours ago",
+    "brief": "This post highlights how EdTech tools can significantly improve student learning through strategies like organization, smarter review, and building independence. It emphasizes that EdTech is more than just tools; it's about transforming the learning process. This reinforces the value proposition of EdTech in fostering effective and self-directed learning.",
+    "link": "https://x.com/ClassTechTips/status/2008017611670364540?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 7,
+      "novelty": 5,
+      "impact": 6
+    }
+  },
+  {
+    "id": "dc73b057-3026-4a90-bb52-fc7c1d2e095b",
+    "name": "MedCity News",
+    "ticker": "MedCity News",
+    "signal": "Healthcare Sector Faces Relentless Ransomware Attacks",
+    "sentiment": "negative",
+    "relevant": false,
+    "score": 6.3,
+    "time": "4 hours ago",
+    "brief": "The healthcare sector is experiencing a severe digital outbreak, with ransomware attacks posing a persistent threat, as highlighted by data breach reports. This ongoing cyber siege underscores the critical need for enhanced cybersecurity measures. The financial and operational impact of these attacks poses a significant risk to healthcare providers and patient data.",
+    "link": "https://medcitynews.com/2026/01/the-healthcare-sectors-digital-contagion-ransomwares-relentless-grip/",
     "metrics": {
       "utility": 6,
       "novelty": 5,
@@ -323,33 +408,33 @@
     }
   },
   {
-    "id": "f112c747-86d1-4101-a160-ccf2aadcd855",
-    "name": "ts2.tech",
-    "ticker": "ts2.tech",
-    "signal": "Eli Lilly stock is watched ahead of JPM Healthcare conference and earnings reports.",
+    "id": "031947b3-8102-4978-81d4-c20395e70556",
+    "name": "Broadband Breakfast",
+    "ticker": "Broadband Breakfast",
+    "signal": "CES Unveiled Previews Agentic, Physical AI, and Software-Defined Vehicles",
     "sentiment": "neutral",
     "relevant": false,
-    "score": 5.8,
-    "time": "2 hours ago",
-    "brief": "This headline focuses on market anticipation for a major pharmaceutical company, driven by industry events and financial performance. It indicates the significant impact of major players like Eli Lilly on the healthcare market. Product managers can use this to gauge market sentiment and upcoming industry trends.",
-    "link": "https://ts2.tech/en/eli-lilly-stock-what-to-watch-before-monday-as-jpm-healthcare-and-earnings-near/",
+    "score": 6.3,
+    "time": "7 hours ago",
+    "brief": "The CES Unveiled preview highlighted key trends including agentic AI, physical AI, and software-defined vehicles, setting the stage for the main CES show. These areas represent significant advancements in automotive and AI technology.  The focus on agentic and physical AI suggests a move towards more autonomous and integrated systems.",
+    "link": "https://broadbandbreakfast.com/ces-unveiled-previewed-ai-industrial-tech-ahead-of-las-vegas-show/",
     "metrics": {
       "utility": 6,
-      "novelty": 4,
-      "impact": 7
+      "novelty": 7,
+      "impact": 6
     }
   },
   {
-    "id": "518d789e-c60c-4475-82bf-cf1360862af2",
-    "name": "StocksToTrade",
-    "ticker": "StocksToTrade",
-    "signal": "Ardelyx stock gains momentum due to positive market sentiment and recent developments.",
+    "id": "82f2c53c-83ad-4ae8-a397-77bfb4060d54",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "QNB & Mastercard Expand Payment Services in Syria",
     "sentiment": "positive",
     "relevant": false,
-    "score": 5.5,
-    "time": "3 hours ago",
-    "brief": "This highlights a company's stock performance being driven by positive market sentiment and specific company news. It points to the influence of market perception and corporate updates on stock value. Product managers can observe how positive developments translate into market value for companies in regulated industries.",
-    "link": "https://stockstotrade.com/news/ardelyxinc-ardx-news-2026_01_04/",
+    "score": 5.7,
+    "time": "11 hours ago",
+    "brief": "This expansion signifies a growing commitment to the Syrian market and aims to empower partner banks. The goal is to enable millions of citizens with enhanced payment services.  This could lead to increased financial inclusion and digital commerce within the region.",
+    "link": "https://www.linkedin.com/posts/fintech-finance_qnb-and-mastercard-expand-payment-services-activity-7413942983018057728-Ioel",
     "metrics": {
       "utility": 6,
       "novelty": 5,
@@ -357,16 +442,101 @@
     }
   },
   {
-    "id": "53cd5a00-2a0b-46a2-a65a-f30b08fb57f2",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Machine Learning Engineer interview scenario at OpenAI about Softmax classifier loss.",
+    "id": "543c4de0-883b-4436-a8e5-7d41ba370413",
+    "name": "Mexico Business News",
+    "ticker": "Mexico Business News",
+    "signal": "Mexico Fintech Sector Authorizations Reach 89",
     "sentiment": "neutral",
     "relevant": false,
-    "score": 5.1,
-    "time": "12 hours ago",
-    "brief": "This offers a glimpse into the technical challenges and interview processes in cutting-edge AI development. It highlights the specific knowledge and problem-solving skills required in machine learning. Product managers can gain insight into the technical expertise valued in AI roles.",
-    "link": "https://www.linkedin.com/posts/hoang-van-hao_machinelearning-deeplearning-computervision-activity-7413562293856317440-5Fai",
+    "score": 5.7,
+    "time": "5 hours ago",
+    "brief": "Mexico has authorized 89 fintech entities since 2018, indicating growth in the sector. However, the sector's capital remains significantly lower than traditional banking. This suggests ongoing challenges in scaling fintech operations and attracting substantial investment compared to established players.",
+    "link": "https://mexicobusiness.news/finance/news/mexico-fintech-sector-authorizations-reach-89-under-fintech-law",
+    "metrics": {
+      "utility": 6,
+      "novelty": 6,
+      "impact": 5
+    }
+  },
+  {
+    "id": "73c23488-aa09-4bf6-a1ac-162aced2c9ac",
+    "name": "Penguin PR",
+    "ticker": "Penguin PR",
+    "signal": "Derby EdTech Firm Sees Surge in Enquiries",
+    "sentiment": "positive",
+    "relevant": false,
+    "score": 5.7,
+    "time": "11 hours ago",
+    "brief": "A Derby-based EdTech firm is experiencing a surge in school inquiries, indicating a positive outlook for the EdTech sector in 2026, particularly in response to new Ofsted frameworks. This trend suggests schools are actively seeking innovative solutions to enhance their educational offerings. The demand for EdTech is likely to continue growing as institutions adapt to evolving educational standards.",
+    "link": "https://penguinpr.co.uk/newscentre/2026/01/05/derby-edtech-enquiries-ofsted-framework/",
+    "metrics": {
+      "utility": 6,
+      "novelty": 5,
+      "impact": 6
+    }
+  },
+  {
+    "id": "691428da-0db4-46d8-b88c-f5ba8adfc552",
+    "name": "Healthcare Dive",
+    "ticker": "Healthcare Dive",
+    "signal": "340B Rebate Pilot Put on Hold, Temporary Win for Hospitals",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 5.4,
+    "time": "8 hours ago",
+    "brief": "A 340B rebate pilot program has been temporarily enjoined by a district court, providing a short-term victory for hospitals. This postponement of a controversial payment experiment indicates ongoing debate and legal challenges in healthcare pricing. The resolution of such pilots can significantly impact hospital finances and patient access to medications.",
+    "link": "https://www.healthcaredive.com/news/340b-rebate-pilot-paused-trump-hrsa-aha-lawsuit/808707/",
+    "metrics": {
+      "utility": 5,
+      "novelty": 5,
+      "impact": 6
+    }
+  },
+  {
+    "id": "cf92c987-b47d-45de-9441-cf25fbbdfdbc",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Neurosama: Programmed AI, Not Generative",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 5.4,
+    "time": "3 hours ago",
+    "brief": "The clarification that Neurosama is a programmed AI, not generative, highlights a distinction in AI development and learning mechanisms. It emphasizes that the AI's behavior is derived from its creator's code and interactions, rather than learning from external data or other artists' work. This distinction is important for understanding AI ethics and intellectual property.",
+    "link": "https://x.com/podgekinn/status/2008297578438226226?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 5,
+      "novelty": 7,
+      "impact": 5
+    }
+  },
+  {
+    "id": "59595578-54d6-4720-8c9b-cfe379846f23",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "US Healthcare Policy Impacts Enrollment and Coverage",
+    "sentiment": "negative",
+    "relevant": false,
+    "score": 5.3,
+    "time": "8 hours ago",
+    "brief": "US healthcare policy changes have led to decreased new enrollment, shifts to less comprehensive coverage, and higher non-renewal rates, particularly impacting those with higher costs. These effects illustrate the negative consequences of policy shifts on healthcare access and affordability. The ongoing political debates around healthcare continue to create market uncertainty.",
+    "link": "https://x.com/GovPressOffice/status/2008226322846544026?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 5,
+      "novelty": 5,
+      "impact": 6
+    }
+  },
+  {
+    "id": "bd4a3242-315b-40cc-8f06-230384b7d1a8",
+    "name": "EdTech Innovation Hub",
+    "ticker": "EdTech Innovation Hub",
+    "signal": "ETIH Innovation Awards 2026: EdTech Focus",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 5.2,
+    "time": "16 hours ago",
+    "brief": "The ETIH Innovation Awards 2026 will spotlight the best uses of EdTech in schools and further education, highlighting innovative applications of technology. This event aims to recognize and promote advancements in educational technology. It serves as a platform to showcase how EdTech is shaping modern learning environments.",
+    "link": "https://www.edtechinnovationhub.com/news/etih-innovation-awards-2026-spotlight-on-best-use-of-edtech-in-schools-and-further-education",
     "metrics": {
       "utility": 5,
       "novelty": 6,
@@ -374,186 +544,101 @@
     }
   },
   {
-    "id": "52e74c2a-e77f-4787-a9ca-f30473e254be",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Airtel Money's impressive user growth and transaction value highlight its dominance in African digital payments.",
-    "sentiment": "positive",
+    "id": "7731b75a-8951-498f-a85c-4f85df172c52",
+    "name": "Facebook",
+    "ticker": "Facebook",
+    "signal": "Michigan Doctors Anticipate Healthcare Changes in 2026",
+    "sentiment": "neutral",
     "relevant": false,
-    "score": 4.9,
-    "time": "19 hours ago",
-    "brief": "This headline showcases a significant achievement in the digital payments space, particularly in Africa. The large user base and transaction value indicate strong market penetration and customer adoption. This suggests an opportunity for partnerships or competitive analysis in the region.",
-    "link": "https://www.linkedin.com/posts/alihkassim_fintech-africantech-ipo-activity-7413459175340457985-KHx_",
-    "metrics": {
-      "utility": 7,
-      "novelty": 3,
-      "impact": 6
-    }
-  },
-  {
-    "id": "d8b795d7-ccfe-4631-8f93-467b157722e3",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Mankind Pharma's journey from a small investment to a multi-crore company, known for affordable medicines.",
-    "sentiment": "positive",
-    "relevant": false,
-    "score": 4.7,
-    "time": "13 hours ago",
-    "brief": "This headline showcases a successful growth story in the pharmaceutical sector, emphasizing affordability and brand recognition. It highlights the potential for businesses to scale significantly by focusing on accessible products. This is relevant for understanding market dynamics and successful business models in healthcare.",
-    "link": "https://www.linkedin.com/posts/hackerabhi_mankind-healthcare-health-activity-7413548839644606464-JiFa",
+    "score": 5.0,
+    "time": "7 hours ago",
+    "brief": "Michigan doctors are anticipating significant changes in healthcare in 2026, with top 5 expected developments highlighted. This indicates that healthcare providers are actively preparing for shifts in the industry. Understanding these anticipated changes is important for stakeholders to adapt their strategies.",
+    "link": "https://www.facebook.com/detroitfreepress/posts/the-new-year-could-bring-dramatic-changes-to-health-care-michigan-doctors-highli/1325401579631991/",
     "metrics": {
       "utility": 5,
-      "novelty": 4,
-      "impact": 6
-    }
-  },
-  {
-    "id": "72c233de-1d4a-4277-a3b6-e961fcf7d92e",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Call for a 5-day workweek in banking, contrasting with broader industry digital advancements.",
-    "sentiment": "negative",
-    "relevant": false,
-    "score": 4.5,
-    "time": "22 hours ago",
-    "brief": "This headline touches on the potential conflict between traditional banking structures and the rapid pace of digital transformation. It suggests a demand for improved work-life balance within the financial sector. This could indirectly influence operational efficiency and talent acquisition strategies.",
-    "link": "https://x.com/ToppilJ/status/2007654665018917226?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 4,
       "novelty": 5,
       "impact": 5
     }
   },
   {
-    "id": "1545f23e-d76c-4411-b240-b76f5dcae423",
-    "name": "China Daily",
-    "ticker": "China Daily",
-    "signal": "AI is monitoring healthcare advances, with a personal anecdote of a white-collar worker using a treadmill.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 4.5,
-    "time": "2 hours ago",
-    "brief": "This headline suggests AI's increasing role in tracking health and wellness trends. While the personal anecdote is illustrative, the broader implication is AI's growing integration into personal health monitoring. Product managers can consider how AI can be used for personalized health insights and recommendations.",
-    "link": "https://www.chinadaily.com.cn/a/202601/05/WS695af5cca310d6866eb31e39.html",
-    "metrics": {
-      "utility": 5,
-      "novelty": 4,
-      "impact": 5
-    }
-  },
-  {
-    "id": "a9c8c18b-cc87-43d2-879f-575132d7b062",
+    "id": "9260a807-3abf-4014-a4c0-e031f01ae025",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "New books are recommended for educators on topics including AI, EdTech, and SEL.",
+    "signal": "South Korea Considers Public Healthcare for Hair Loss Treatment",
     "sentiment": "neutral",
     "relevant": false,
     "score": 4.2,
-    "time": "4 hours ago",
-    "brief": "This headline points to the continuous demand for resources that help educators navigate emerging educational trends. The emphasis on AI, EdTech, and SEL indicates key areas of focus in modern pedagogy. This suggests opportunities for educational content creators and platform providers.",
-    "link": "https://x.com/Rdene915/status/2007927577357300098?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "time": "14 hours ago",
+    "brief": "South Korea is considering including hair loss treatment in public healthcare, with the argument that it's a 'matter of survival' for young men. This proposal highlights evolving perspectives on healthcare coverage and societal needs. The potential inclusion could impact the market for hair loss treatments and the scope of public health services.",
+    "link": "https://x.com/Dexerto/status/2008130329777754312?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
-      "utility": 6,
+      "utility": 4,
+      "novelty": 5,
+      "impact": 4
+    }
+  },
+  {
+    "id": "546ceaa5-89fe-415d-960e-6c4dedbee647",
+    "name": "AZ Big Media",
+    "ticker": "AZ Big Media",
+    "signal": "Key Leaders Shaping Arizona Healthcare in 2026",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 4.0,
+    "time": "17 hours ago",
+    "brief": "Identifying the 'Who's Who' in Arizona Healthcare for 2026 is crucial as these leaders will guide the future of medicine and patient well-being within the state. This highlights the importance of leadership in driving healthcare advancements. Recognizing key influencers is vital for understanding market direction and strategic initiatives.",
+    "link": "https://azbigmedia.com/business/health-care/whos-who-in-arizona-healthcare-for-2026/",
+    "metrics": {
+      "utility": 4,
       "novelty": 4,
       "impact": 4
     }
   },
   {
-    "id": "32b3aeca-6137-42b1-b2bb-409fefd5b7a8",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "@thriveinedu podcast features episodes on education, EdTech, SEL, and AI.",
+    "id": "2ea67df5-865f-4c38-a3bd-317a6613fd36",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Mastercard announced that QNB Group, the largest financial institution in the #MiddleEast and #Africa, was granted a Mastercard license to extend its issuing and acquiring activities in #Syria, enabling it to provide Mastercard payment solutions - accepted loc",
     "sentiment": "neutral",
     "relevant": false,
-    "score": 3.7,
-    "time": "6 hours ago",
-    "brief": "This podcast highlights a range of important topics within the education sector, including EdTech and AI. It signifies ongoing discussions and knowledge sharing in these fields. Product managers can use such content to stay informed about current trends and emerging needs in education.",
-    "link": "https://x.com/Rdene915/status/2007893573258097124?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "score": 0,
+    "time": "11 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/fintechnewsuae_middleeast-africa-syria-activity-7413944846081589248-BVgO",
     "metrics": {
-      "utility": 5,
-      "novelty": 3,
-      "impact": 4
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
     }
   },
   {
-    "id": "e3a41cdb-597c-4b58-b6e4-162c79c39635",
+    "id": "80f7e0a4-8955-4bae-83b0-24d0f16eeb8a",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "RCT on art therapy with hospital staff published in BMJ Public Health, providing evidence-based insights.",
+    "signal": "\ud83d\ude80 \ud835\udde7\ud835\udddb\ud835\uddd8 \"\ud835\uddd9\ud835\udddc\ud835\udde1\ud835\udde7\ud835\uddd8\ud835\uddd6\ud835\udddb \ud835\uddda\ud835\udde5\ud835\udde2\ud835\uddea\ud835\udde7\ud835\udddb\" \ud835\udde1\ud835\uddd4\ud835\udde5\ud835\udde5\ud835\uddd4\ud835\udde7\ud835\udddc\ud835\udde9\ud835\uddd8 \ud835\udddc\ud835\udde6 \ud835\uddd7\ud835\uddec\ud835\udddc\ud835\udde1\ud835\uddda And 2025 proved it. \u274c \ud835\udde2\ud835\udddf\ud835\uddd7 \ud835\udde3\ud835\udddf\ud835\uddd4\ud835\uddec\ud835\uddd5\ud835\udde2\ud835\udde2\ud835\uddde: Growth at all costs. Chase the next unicorn. Obsess over user metrics. \u2705 \ud835\udde1\ud835\uddd8\ud835\uddea \ud835\udde3\ud835\udddf\ud835\uddd4\ud835\uddec\ud835\uddd5\ud835\udde2\ud835\udde2\ud835\uddde: Profitability on the path forward. Build regional empires. Focus",
     "sentiment": "neutral",
     "relevant": false,
-    "score": 3.7,
-    "time": "4 hours ago",
-    "brief": "The publication of a randomized controlled trial on art therapy in a respected medical journal offers valuable evidence for its efficacy in healthcare settings. This is relevant for healthcare providers and mental health professionals. It may inform the development of new therapeutic interventions.",
-    "link": "https://www.linkedin.com/posts/megan-tjasink-65b76533_art-therapy-to-reduce-burnout-and-mental-activity-7413683740654256128-Ancf",
+    "score": 0,
+    "time": "13 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/alihkassim_africantech-fintech-alitalkstech-activity-7413912222994681856-vra2",
     "metrics": {
-      "utility": 4,
-      "novelty": 3,
-      "impact": 5
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
     }
   },
   {
-    "id": "1d50ebec-50d2-47ec-b85e-7773ffd3709e",
+    "id": "e30a3477-66db-4766-a5b4-7cd4c5794c44",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "National Bank of Kuwait partners with Visa to offer FIFA World Cup 2026 tickets to campaign winners.",
-    "sentiment": "positive",
+    "signal": "\ud835\uddde\ud835\uddf2\ud835\uddfb\ud835\ude06\ud835\uddee'\ud835\ude00 \ud835\uddd6-\ud835\udde6\ud835\ude02\ud835\uddf6\ud835\ude01\ud835\uddf2 \ud835\udddf\ud835\uddf6\ud835\uddfb\ud835\uddf8\ud835\uddf2\ud835\uddf1\ud835\udddc\ud835\uddfb \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf9\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\uddd6\ud835\uddf5\ud835\uddf2\ud835\uddf0\ud835\uddf8 \ud83e\uddf5 \ud83d\udd34 \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddda\ud835\uddee\ud835\uddfd \ud835\uddf6\ud835\ude00 \ud835\udde0\ud835\uddd4\ud835\udde6\ud835\udde6\ud835\udddc\ud835\udde9\ud835\uddd8 - And That's Your Opportunity 6.54M LinkedIn users in Kenya as of Dec 2025. Only 45K-60K are senior executives. Yet 75% of Nairobi Securities Exchange PLC CEOs ar",
+    "sentiment": "neutral",
     "relevant": false,
-    "score": 3.0,
+    "score": 0,
     "time": "17 hours ago",
-    "brief": "This partnership between a bank and a payment network for a high-profile event is a common marketing strategy. It indicates a focus on customer engagement and reward programs. While not groundbreaking, it highlights the importance of co-branded promotions in the financial sector.",
-    "link": "https://www.linkedin.com/posts/fintechnewsuae_fintechnewsuae-nbk-fifa2026-activity-7413492537308581888-v2IH",
-    "metrics": {
-      "utility": 5,
-      "novelty": 2,
-      "impact": 4
-    }
-  },
-  {
-    "id": "e927c4df-4a89-4950-bf12-83811da0eb77",
-    "name": "Arizona Daily Sun",
-    "ticker": "Arizona Daily Sun",
-    "signal": "Northern Arizona Healthcare adds a primary care provider to its Flagstaff office.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 2.7,
-    "time": "11 hours ago",
-    "brief": "This is a straightforward announcement about expanding healthcare services by adding a medical professional. It indicates an effort to meet patient demand in a specific geographic area. For product managers, it highlights the need for accessible primary care services.",
-    "link": "https://azdailysun.com/news/local/nah-adds-primary-care-provider-in-flagstaff/article_352b107a-9bdb-4d9b-ad56-5ae2c35be7d0.amp.html",
-    "metrics": {
-      "utility": 3,
-      "novelty": 1,
-      "impact": 3
-    }
-  },
-  {
-    "id": "d0364a02-dab6-4cfa-ab94-0001c292b850",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Hari Om Motherfather Home Healthcare announces a sales training program for its staff.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 1.8,
-    "time": "19 hours ago",
-    "brief": "This is a specific internal training announcement for a healthcare company. It highlights the importance of sales skills in the healthcare industry. For product managers, it indicates a focus on sales effectiveness within healthcare service providers.",
-    "link": "https://www.linkedin.com/posts/chander-shekhar-sibal-665a664_dear-sirmadam-greetings-from-hari-om-motherfather-activity-7413463079356837888-ecn1",
-    "metrics": {
-      "utility": 3,
-      "novelty": 1,
-      "impact": 2
-    }
-  },
-  {
-    "id": "59588010-09bf-4be0-9fb6-befc59e4cbe6",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "India's Youngest Billionaire Makes History on Global Stage \ud83c\uddee\ud83c\uddf3 Nikhil Kamath, co-founder of Zerodha, has claimed the 20th spot on Forbes' list of the world's richest self-made billionaires under 40, making him the only India-based entrepreneur in the top ranki",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "19 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/iamarastu_nikhilkamath-zerodha-forbes-activity-7413463083613859840-YSvM",
+    "link": "https://www.linkedin.com/posts/alihkassim_linkedinstrategy-kenyaexec-fintech-activity-7413851947453259776-p-zL",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -561,16 +646,16 @@
     }
   },
   {
-    "id": "c60398b3-0f00-49bb-8a8b-e0e6bd2635cb",
+    "id": "cc9524ab-737d-41a9-b38d-8efb8f488ec6",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "#Saudi-based fintechs are reshaping the traditional banking system in the Kingdom by going fully digital and prioritizing convenience, experts told Arab News.",
+    "signal": "The Securities and Exchange Commission has issued revised rules for beneficial ownership disclosure to enhance corporate transparency and combat illicit activities. Read here: https://lnkd.in/ggKUtVt3 #fintech #regtech",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "16 hours ago",
+    "time": "21 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/arabnews_innovative-fintech-reimagining-saudi-banking-activity-7413504482912825344-ndch",
+    "link": "https://www.linkedin.com/posts/fintech-news-philippines_fintech-regtech-activity-7413793882225704960-3SAu",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -578,16 +663,16 @@
     }
   },
   {
-    "id": "995aadbf-ef1e-4bcd-877d-74cbb6896550",
+    "id": "7d9f9b1b-1d80-44a6-8076-3aeb65751dea",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "I\u2019m excited to join some of the World\u2019s finest Fintechs, Fintech Investors and Global Businesses in Cape Town at the end of this month. Huge thanks to the Counder Team, including Michel Weiss and Leonard Stiegeler for building this community! And for choos",
+    "signal": "\ud835\uddd4\ud835\ude04\ud835\uddee\ud835\uddff\ud835\uddf1 \ud835\udde1\ud835\uddfc\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00 \ud835\uddd4\ud835\uddff\ud835\uddf2 \ud835\udde1\ud835\uddfc\ud835\ude04 \ud835\udde2\ud835\uddfd\ud835\uddf2\ud835\uddfb Nominations are now open for the MEA Finance SME Business and Finance Summit and Awards 2026, taking place on 23 April 2026 in Dubai UAE. The awards recognise outstanding achievements, innovation an",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "15 hours ago",
+    "time": "21 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/karl-westvig_im-excited-to-join-some-of-the-worlds-finest-activity-7413512958644748288-3bdp",
+    "link": "https://www.linkedin.com/posts/mea-finance-magazine-7421981ab_meafinance-meafinanceevents-meafsme-activity-7413791357678350337-0UF-",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -595,16 +680,16 @@
     }
   },
   {
-    "id": "5c91d333-09b1-4374-ad82-03b8111567f3",
+    "id": "07c32962-697e-4109-938f-2410fcf79fc9",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "Top FinTech & AI Stories of 2025: A Year of Convergence \ud83d\udd17\u26a1",
+    "signal": "Indonesia\u2019s fintech scene is moving faster than ever, and we\u2019ve built a new home for it! \ud83c\uddee\ud83c\udde9 Whether you're tracking the rise of digital banks, the latest in wealthtech, or the OJK's new regulatory roadmap, we\u2019ve got you covered. Join us as we dive deeper into on",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "15 hours ago",
+    "time": "17 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/pulse/top-fintech-ai-stories-2025-year-convergence-linas-beli%C5%ABnas-yjf7f",
+    "link": "https://www.linkedin.com/posts/fintech-news-malaysia_fintech-indonesia-banking-activity-7413851810295279617-8PDB",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -612,16 +697,33 @@
     }
   },
   {
-    "id": "588e622a-7238-4d2f-95b8-a0a30315ad2e",
+    "id": "eb22a65a-d6ab-425a-95c1-cf2171e1b213",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "VEON Invests $20M to Boost Mobilink Bank\u2019s Digital Islamic Banking Bankopedia.pk reports that VEON Group, the parent company of Jazz and Mobilink Bank, has announced a $20 million investment in Mobilink Bank to accelerate its growth and expand digit",
+    "signal": "\"In a few short years, Fintech Meetup has become a powerhouse for networking and discovery.\" Thanks to Finopotamus - Fintech News for Hungry CUs for including us in their list of the top 5 tech conferences of 2025. Don't forget: ticket prices go up this Friday!",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "7 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/fintechmeetup_the-top-5-tech-conferences-of-2025-activity-7413998406773129216-QeLh",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "65690e77-cb4e-4e56-a0f9-8ebbd5b97e31",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Fintech Flutterwave has acquired Mono, a pioneer in open banking infrastructure across Africa, at an estimated value of between $25M and $40M. The deal deepens Flutterwave\u2019s long-term commitment to building a connected, interoperable financial system i",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "11 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/bankopedia_mobilinkbank-veongroup-digitalbanking-activity-7413579922142814208-M9gp",
+    "link": "https://x.com/MaudhuiHouse/status/2008168497365328345/photo/1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -629,118 +731,16 @@
     }
   },
   {
-    "id": "55d2b098-42b5-484e-80bd-08d195973106",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Remittance inflows in Bangladesh reached an all-time peak of USD 32.80 billion in 2025, the highest annual figure in the country\u2019s history. The amount represents a 22 percent increase from USD 26.88 billion recorded in the previous year, according to data re",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "19 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/fintech-news-bd_remittance-inflows-in-bangladesh-reached-activity-7413464638685868033-dQc_",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "6ffd19a3-ac33-420f-8b00-8901ac9c7146",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "1 Minute News Update: Zerodha co-founder Nikhil Kamath has made history as the only India-based entrepreneur to feature on Forbes\u2019 2025 list of the world\u2019s richest self-made billionaires under 40. The global landscape for young billionaires is witnessing a",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "14 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/therupeestory_nikhilkamath-zerodha-forbesunder40-activity-7413529698158342144-IJFT",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "2bc36887-dce8-46b1-bc1d-855ac4a0419c",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "\ud83d\udea8 PAYMENTS: INTX Integrates tranzpay.io To Deliver Fully Embedded Payments Across Its Unified End-to-End Core Platform Tranzpay, a leading provider of unified digital payment solutions for the insurance industry, has announced a strategic partnership wi",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "10 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/payments-wrap-up_fintech-payments-finance-activity-7413595070320369664-3iBO",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "5204440a-8756-41eb-824d-6f3f9b5a0d78",
+    "id": "28cf9df8-f0ee-409f-a2e4-ffb0af215a62",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "Velyn Cash $VCASH Community on X - 96 Members",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "5 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/i/communities/2007875228584837482?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5E",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "561fdf35-8ec6-48de-a607-eb9335d208e6",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Why #5DayBankingNow Is the Need of the Hour Not a Demand, but a Reform. #5DaysBanking offers multiple strategic advantages for employees, banks, and the overall financial ecosystem: \u25b6\ufe0f Higher Employee Productivity & Better Work-Life Balance Well-r",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "19 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/Ankyghate/status/2007691566295756943?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "4a8a0626-18d1-426b-a1f1-f17c46962c38",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Bank Unions Push Government for Full Five-Day Workweek",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "23 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/i/trending/2007639960266981725?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5E",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "b9e5b47b-26d9-413a-acd2-b735820df490",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "23\u671f\u9023\u7d9a\u306e\u5897\u53ce\u5897\u76ca\u3067\u682a\u4fa1\u304c10\u500d\u306b\u306a\u3063\u305f\u300e\u30a4\u30fc\u30fb\u30ae\u30e3\u30e9\u30f3\u30c6\u30a3\u300f\u3001\u4e8b\u696d\u304c\u58f2\u639b\u50b5\u6a29\u4fdd\u8a3c\u3068\u30cb\u30c3\u30c1\u904e\u304e\u3066\u77e5\u540d\u5ea6\u3092\u611f\u3058\u306a\u3044\u3051\u3069\u3001\u9023\u7d9a\u6210\u9577\u3067PPIH\u3084GMO\u3068\u4e26\u3076\u71fb\u9280\u306a\u8d85\u512a\u826f\u4f01\u696d\u3060\u3063\u305f\u3002\u3002 90%\u306e\u7d99\u7d9a\u7387\u3067\u53ce\u76ca\u304c\u7a4d\u307f\u4e0a\u304c\u308a\u3001\u8a2d\u5099\u6295\u8cc7\u4e0d\u8981\u3067FCF\u304c\u6ea2\u308c\u51fa\u308b\u6b63\u306b\u30ad\u30e3\u30c3\u30b7\u30e5\u30de\u30b7\u30fc",
+    "signal": "Transparencia y seguridad tambi\u00e9n se programan. #FinanzasDigitales #Fintech #Innovacion \ud83d\udd0d\u2699\ufe0f",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "22 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/makemmd/status/2007645449491231215?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "link": "https://x.com/IDConline/status/2008010629102047623?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -748,84 +748,16 @@
     }
   },
   {
-    "id": "4d3399bd-b0ff-410e-96fb-5ec9e561199d",
+    "id": "c0ecca22-b4f0-4ec2-865a-ccfd6173bf61",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "District Administration Patna (@dm_patna) / Posts / X",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "May 25, 2024",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/dm_patna?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "a778269f-18f6-4ca7-87d2-b0cd76424420",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Brand Identity for the AI-powered FinTech app, invest and manage with a personalised AI Financial Agent.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "14 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/socoloffalex/status/2007763074653327578/photo/1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "4cf38b8e-b76a-4ae2-84eb-62dc7e27d726",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "At a pivotal crossroads, the fintech sector must now move beyond disruption to demonstrate durability. \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\ude01\ud835\uddff\ud835\uddee\ud835\uddfb\ud835\ude00\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddfd\ud835\uddfc\ud835\ude04\ud835\uddf2\ud835\uddff \ud835\uddfc\ud835\uddf3 \ud835\uddf1\ud835\uddf6\ud835\uddf4\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddf9 \ud835\uddfd\ud835\ude02\ud835\uddef\ud835\uddf9\ud835\uddf6\ud835\uddf0 \ud835\uddf6\ud835\uddfb\ud835\uddf3\ud835\uddff\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddff\ud835\ude02\ud835\uddf0\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddf5\ud835\uddee\ud835\ude00 \ud835\ude02\ud835\uddfb\ud835\uddf9\ud835\uddfc\ud835\uddf0\ud835\uddf8\ud835\uddf2\ud835\uddf1 \ud835\uddf6\ud835\uddfa\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude00\ud835\uddf2 \ud835\uddfc\ud835\uddfd\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\ude01\ud835\ude02\ud835\uddfb\ud835\uddf6\ud835\ude01\ud835\ude06\u2014but lasting succ",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "10 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/KPMGIndia/status/2007829371881459789?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "f691d90a-0cbc-483f-9e66-4741c3754a81",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Felicito a la banca venezolana y las fintech, que a pesar de la situaci\u00f3n actual se han portado muy bien. La banca electr\u00f3nica se ha mantenido 100% a pesar de todo lo que ha ocurrido y de la incertidumbre actual.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "8 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/fmonroy/status/2007866876739956889?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "1cf95db5-b794-4644-bd55-eb6e0c720c09",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Modern fintech website \u2728",
+    "signal": "Fintech founders & investment pros: Want to build trust and generate leads? These content tactics are designed for you: #Fintech #LeadGeneration #InboundMarketing #ContentIdeas",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "9 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/farhanrizzvi/status/2007852142539821299?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "link": "https://x.com/SEOforlondon/status/2008198641069019296?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -833,16 +765,169 @@
     }
   },
   {
-    "id": "14df3b89-2e42-4788-906d-cdf60061f74c",
-    "name": "Crowdfund Insider",
-    "ticker": "Crowdfund Insider",
-    "signal": "Cathie Wood's ARK Fintech ETF Bucks 2025 Sector Decline, But Firm's Broader Funds Highlight Persistent Volatility And Losses",
+    "id": "f6a770ba-fe6a-4a27-9331-ea4c832378e6",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "La diversidad en las fintech latinoamericanas no es un objetivo: es la clave para transformar el futuro. As\u00ed lo revela el informe \u201cInstant\u00e1nea de mujeres en la industria fintech latinoamericana: Construyendo futuro con mirada diversa\u201d,de Nuek, una compa\u00f1\u00eda de",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "9 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/IndraenColombia/status/2008199840073982304/photo/1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "50b74c7f-6e15-43c3-9edf-e0d6e52111e4",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Tencent-backed fintech Airwallex to invest in the Netherlands",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "11 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/ReutersAsia/status/2008176715160322227?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "57b5dbcd-2727-4ae5-bfcd-a94f8ce21ee2",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Good article highlighting 14 noteworthy #AI-enabled #proptech and #fintech startups spotlighted at TechCrunch Disrupt, providing a snapshot of innovation trends and potential disruptors in #realestate and automation.",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "11 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/iamdustinallan/status/2008172911178158485?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "6101d10a-b630-45b2-9cad-2813231e6721",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Why AI and Stablecoins Dominated Fintech Funding in Q3 2025 and What It Means for Africa in 2026 | By: Bidemi Oke, CEO of @FlashChange_ Read expert breakdown:",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "13 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/TecheconomyNG/status/2008146285422088686?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "0c77cd59-818d-4299-b7fe-111a527df89c",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Started English @Wikipedia page of #RatingDog, a Chinese fintech and partner for the S&P Global China PMI, providing institutional investors with independent data and analysis on China\u2019s bond market and private sector economy. en.wikipedia.org/wiki/Rati",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "17 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/AlexHinojo/status/2008078022356992232?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "03d254d8-71da-4a3e-9a80-b27d910c97e1",
+    "name": "Parsippany Focus",
+    "ticker": "Parsippany Focus",
+    "signal": "Provenir\u2019s AI Decisioning Platform Captures Dual Industry Awards",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "41 minutes ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://parsippanyfocus.com/2026/01/05/provenirs-ai-decisioning-platform-captures-dual-industry-awards/",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "edce862f-465c-4868-b606-ac6501031569",
+    "name": "FinTech Global",
+    "ticker": "FinTech Global",
+    "signal": "Flutterwave strengthens African payments with Mono deal",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "11 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://fintech.global/2026/01/05/flutterwave-strengthens-african-payments-with-mono-deal/",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "b0f4d1f9-c627-4fcc-98bc-2450d4798c32",
+    "name": "Medium",
+    "ticker": "Medium",
+    "signal": "Japan FinTech Observer #145",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "12 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://medium.com/tokyo-fintech/japan-fintech-observer-145-738673f0b668",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "d53d9cd8-71ad-4e5b-8f27-61b16a2c6673",
+    "name": "Seeking Alpha",
+    "ticker": "Seeking Alpha",
+    "signal": "Gen Digital: Moving Beyond Antivirus To Capture The Fintech Wallet (NASDAQ:GEN)",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "4 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://seekingalpha.com/article/4857259-gen-digital-moving-beyond-antivirus-to-capture-the-fintech-wallet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "bea089dd-80a9-4668-9c35-b0afc27e6ae6",
+    "name": "The Globe and Mail",
+    "ticker": "The Globe and Mail",
+    "signal": "Why Dave (DAVE) Stock Is Up Today",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "3 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.crowdfundinsider.com/2026/01/257084-cathie-woods-ark-fintech-etf-bucks-2025-sector-decline-but-firms-broader-funds-highlight-persistent-volatility-and-losses/",
+    "link": "https://www.theglobeandmail.com/investing/markets/stocks/DAVE/pressreleases/36890247/why-dave-dave-stock-is-up-today/",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -850,152 +935,16 @@
     }
   },
   {
-    "id": "694277e5-f6c9-48bf-95f7-512a14bcbb8a",
-    "name": "South China Morning Post",
-    "ticker": "South China Morning Post",
-    "signal": "Exclusive | HKMA teams up with SFC, Insurance Authority to promote fintech over next 5 years",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "30 minutes ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.scmp.com/business/banking-finance/article/3338531/hkma-talks-sfc-insurance-authority-promote-fintech-over-next-5-years",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "386f2fe9-9168-4fbd-b539-2156b46bd3b7",
-    "name": "FinTech Weekly",
-    "ticker": "FinTech Weekly",
-    "signal": "Compliance and Complexity Prove the Need for Smarter Fraud Prevention",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "18 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.fintechweekly.com/magazine/articles/smarter-fraud-prevention-compliance-complexity-uk",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "04d505b3-6c72-4d7f-8dc5-a428d72768e3",
-    "name": "MSN",
-    "ticker": "MSN",
-    "signal": "Knight Fintech secures $23.6 million from Accel, IIFL, & others",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "2 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.msn.com/en-in/money/news/knight-fintech-secures-23-6-million-from-accel-iifl-others/ar-AA1Tq563",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "4d77e0c5-9c47-42ac-924f-2004d245680d",
-    "name": "OneSafe",
-    "ticker": "OneSafe",
-    "signal": "David Schwartz's Transition: A Lesson in Sustainable Leadership for Crypto Startups",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "2 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.onesafe.io/blog/david-schwartz-cto-emeritus-lessons-leadership-sustainability",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "c8a53f48-ce84-45c0-b1b1-e0dd083ac9dc",
-    "name": "StocksToTrade",
-    "ticker": "StocksToTrade",
-    "signal": "Futu Stock Performance Surges Amid Market Anticipations",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "6 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://stockstotrade.com/news/futuholdingslimited-futu-news-2026_01_04/",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "cad07217-4c17-4e8d-afcf-e0badf9d265d",
-    "name": "BusinessDesk | NZ",
-    "ticker": "BusinessDesk | NZ",
-    "signal": "Vibe coding: democratiser or industry killer?",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "9 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://businessdesk.co.nz/article/technology/vibe-coding-democratiser-or-industry-killer",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "19ee3351-ec2e-4d73-811a-1ef5bc9a2f8c",
-    "name": "ts2.tech",
-    "ticker": "ts2.tech",
-    "signal": "BILL stock drops 7% to start 2026 as rate jitters hit fintech; KBW lifts target",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "23 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://ts2.tech/en/bill-stock-drops-7-to-start-2026-as-rate-jitters-hit-fintech-kbw-lifts-target/",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "c295b2ca-cd88-43e7-926d-055db546e058",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "TripleTen Employees, Location, Alumni",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "Jun 16, 2023",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/school/tripleten/",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "595c8622-a24b-4678-936c-61303669aad3",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "A Transformation in Iranian AI Education: Launching an Interactive AI Program for 15,000+ Teachers \u062a\u062d\u0648\u0644\u06cc \u062f\u0631 \u0622\u0645\u0648\u0632\u0634 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0627\u06cc\u0631\u0627\u0646: \u0622\u063a\u0627\u0632 \u062f\u0648\u0631\u0647\u200c\u0627\u06cc \u062a\u0639\u0627\u0645\u0644\u06cc \u0648 \u0631\u0627\u06cc\u06af\u0627\u0646 \u0628\u0631\u0627\u06cc \u0628\u06cc\u0634 \u0627\u0632 \u06f1\u06f5\u06f0\u06f0\u06f0 \u0645\u0639\u0644\u0645 (\u0645\u062a\u0646 \u0641\u0627\u0631\u0633\u06cc \u0628\u0639\u062f \u0627\u0632 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc) I was honored to attend the launch of this fr",
+    "id": "677c69d8-301d-4f24-b415-9fa5ad5ecb8c",
+    "name": "Startups Magazine",
+    "ticker": "Startups Magazine",
+    "signal": "2026 will be a turning point for fintech, here\u2019s what industry leaders expect",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "15 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/etoofaninejad_ai-education-iran-activity-7413524219508117504-Q1Yz",
+    "link": "https://startupsmagazine.co.uk/2026-will-be-a-turning-point-for-fintech-heres-what-industry-leaders-expect",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1003,16 +952,16 @@
     }
   },
   {
-    "id": "7984409c-57fd-44fb-b20c-32ea85ba31cc",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "I really loved sitting down with Alex Sarlin and picking up some of the Edtech Insiders energy when talking about our new book (Maya Bialik), how it's organized, and just a touch of what readers can find in it. Here's a teaser video below, and you can find the ful",
+    "id": "c67f036f-b29c-4770-ad8d-0944c2101894",
+    "name": "Blockonomi",
+    "ticker": "Blockonomi",
+    "signal": "HKMA Eyes Industry Partnerships to Advance Fintech 2030 Goals",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "23 hours ago",
+    "time": "3 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/pbnilsson_i-really-loved-sitting-down-with-alex-sarlin-activity-7413402828393754624-whWa",
+    "link": "https://blockonomi.com/hkma-eyes-industry-partnerships-to-advance-fintech-2030-goals/",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1020,16 +969,16 @@
     }
   },
   {
-    "id": "ac60886e-4abb-40a0-924a-56a8ad8156c3",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "\"Is it a crime that Trump arrested Maduro?\" ChatGPT said: \"\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\uddf2\ud835\uddf4\ud835\uddee\ud835\uddf9.\" Perplexity said: \"\ud835\udde1\ud835\uddfc\ud835\ude01 \ud835\uddee \ud835\uddf0\ud835\uddff\ud835\uddf6\ud835\uddfa\ud835\uddf2.\" So which one is right? \ud835\uddd5\ud835\uddfc\ud835\ude01\ud835\uddf5. \ud835\uddd4\ud835\uddfb\ud835\uddf1 \ud835\uddfb\ud835\uddf2\ud835\uddf6\ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\uddff. Here's why: \ud835\uddd6\ud835\uddf5\ud835\uddee\ud835\ude01\ud835\uddda\ud835\udde3\ud835\udde7 \ud835\uddf6\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\ude01\ud835\uddf2\ud835\uddf1 \"\ud835\uddf0\ud835\uddff\ud835\uddf6\ud835\uddfa\ud835\uddf2\" \ud835\ude01\ud835\uddf5\ud835\uddff\ud835\uddfc\ud835\ude02\ud835\uddf4\ud835\uddf5 \ud835\uddf6\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfb\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddf9 \ud835\uddf9\ud835\uddee\ud835\ude04: \u2022 Uncon",
+    "id": "3eb07b88-e21b-4918-94c5-50753a67f67d",
+    "name": "TradingView \u2014 Track All Markets",
+    "ticker": "TradingView \u2014 Track All Markets",
+    "signal": "Sezzle (SEZL) Stock Trades Up, Here Is Why",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "13 hours ago",
+    "time": "4 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/tianazivk_is-it-a-crime-that-trump-arrested-maduro-activity-7413550281487069184-eZr4",
+    "link": "https://www.tradingview.com/news/stockstory:989620669094b:0-sezzle-sezl-stock-trades-up-here-is-why/",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1037,50 +986,16 @@
     }
   },
   {
-    "id": "f2644965-a7f7-4ac9-9d33-c302c9336755",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "PPStack hiring Intern Cloud in Noida, Uttar Pradesh, India",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "21 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://in.linkedin.com/jobs/view/intern-cloud-at-ppstack-4330181531",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "f7e23502-1501-4736-837a-f73da186f373",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "One year from now, you will not remember how many emails you answered, how many errands you ran, or how many parties you went to. But you will remember what it was like not to hit your goals... again. Marcus Aurelius reminded himself that \u201cyou could lea",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "9 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/cloudwithraj_one-year-from-now-you-will-not-remember-activity-7413610168954843136-w4SH",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "3c02af5d-e90e-4e35-a1e0-137d9a97196f",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Edvance hiring Marketing Intern (only fresher) in India",
+    "id": "a402c39c-6872-46ba-94e2-fcca4dd9c265",
+    "name": "Techpoint Africa",
+    "ticker": "Techpoint Africa",
+    "signal": "What\u2019s next for African fintech? 5 fintech leaders share their expectations for 2026",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "15 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://in.linkedin.com/jobs/view/marketing-intern-only-fresher-at-edvance-4330202134",
+    "link": "https://techpoint.africa/insight/african-fintech-outlook/",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1088,152 +1003,16 @@
     }
   },
   {
-    "id": "b3d04b92-7d5b-4781-a158-3a4432f9935d",
+    "id": "9547efb3-7fa8-4191-8898-ce96c0d6ad13",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "PPStack hiring Intern React JS in Noida, Uttar Pradesh, India",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "14 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://in.linkedin.com/jobs/view/intern-react-js-at-ppstack-4330192360",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "162a8d49-feb8-4815-b96e-d8172966e0b6",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "PPStack hiring Intern Full Stack in Noida, Uttar Pradesh, India",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "11 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://in.linkedin.com/jobs/view/intern-full-stack-at-ppstack-4330240817",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "062df195-5f1f-4b93-b383-56e6028946ee",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Explore the latest news about #education #SEL #edtech every Saturday via @Getting_Smart ift.tt/1PDvwVa #thriveinEDU #k12",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "23 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/Rdene915/status/2007640673386746326?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "38a71720-abcc-4b79-bb20-d73a0a5f96b2",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Our new VoxDevLit on EdTech is out now! Senior Editor @singhabhi @handels_sse & Co-Editors @Lnavarrosola @IIES_Sthlm & @POreopoulos @UofT, summarise everything you need to know about EdTech. Read & download here: voxdev.org/voxdevlit/ed",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "13 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/vox_dev/status/2007784147746476194/photo/1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "ed282cbf-ca4e-4c69-b86c-e380b7bbebeb",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "This system has scaled across: \u2022 SaaS \u2022 Interior Design \u2022 EdTech \u2022 NGOs \u2022 Wellness Different ICPs. Same principles. Because Meta rewards structure, signal density & patience.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "18 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/JahidHussain2/status/2007703955330216330?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "e0906b04-bb82-46b9-b8db-6690b78ba6b4",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "\u4ed5\u4e8b\u59cb\u3081\u306f\u30ad\u30c3\u30ba\u3068\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3002 \u6802\u6c60\u4e0b\u90e8\u30a8\u30ea\u30a2\u3092\u6e80\u55ab\u3057\u3066\u3044\u304d\u307e\u3059\u3002 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u304c\u958b\u3044\u305f\u306e\u3067\u3001\u6ed1\u308a\u8fbc\u307f\u306b\u306f\u826f\u3044\u30b3\u30f3\u30c7\u30a3\u30b7\u30e7\u30f3\u2744\ufe0f",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "24 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/DaysHakuba/status/2007622146508636632?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "31720c32-a5f4-46c6-aadf-f7b2a05e1180",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "UPSC Interview Question of the Day: I see you have worked at XYZ company for more than three years. How do you see its spectacular failure, and what were the reasons for the same? Follow-up Question: Do we need edtech in India, or should it be restricted",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "20 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/Ketanomy/status/2007680640699838863?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "6f053ab5-ee25-4d69-a2a8-b9acfe83e596",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "#\u5099\u5fd8\u9332 \u30fb\u30d6\u30fc\u30c4\u3067\u306e\u6b69\u884c \u30fb\u7247\u8db3\u306e\u677f\u306e\u7740\u8131 \u30fb\u7247\u8db3\u3067\u306e\u5e73\u9762\u6b69\u884c\uff08\u4e21\u8db3\u4ea4\u4e92\uff09 \u30fb\u8d85\u7de9\u659c\u9762\u3067\u306e\u7247\u8db3\u30b9\u30ad\u30fc\uff08\u30b9\u30fc\u30c3\u3068\u6ed1\u308b\u611f\u899a\u7372\u5f97\uff09 \u30fb\u8d85\u7de9\u659c\u9762\u3067\u306e\u4e21\u8db3\u30b9\u30ad\u30fc\uff08\u5f8c\u308d\u304b\u3089\u62bc\u3055\u308c\u3066\u30b9\u30fc\u30c3\u3068\u6ed1\u308b\u611f\u899a\u7372\u5f97\uff09 \uff08\u305f\u304f\u3055\u3093\uff09\u8ee2\u3070\u306a\u3044\u3067\u4e0a\u624b\u304f\u306a\u308b\u30b9\u30ad\u30fc\u3082\u3042\u308b\u3002",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "15 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/DaysHakuba/status/2007752970612707664?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "aa984c30-6e24-4617-9727-c8c9185aeab6",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "The final episode of SLL in 2025 was excellent. Episode 255 Impact & Outcomes of California Community Schools Partnership Program #Edtech; #Edtechchat",
+    "signal": "The first Nordic EdTech News is in subscriber inboxes and a happy New Year to everyone. I\u2019m pleased to kick off 2026 with an exciting announcement for the Nordic EdTech community. The 2026 Nordic EdTech Summit will take place in Oslo on 9th Septembe",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "16 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/travelinedman/status/2007734830562414872?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "link": "https://www.linkedin.com/posts/jonathanviner_nordicmade-nordicedtech-balticedtech-activity-7413865634377261056-xv5t",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1241,16 +1020,16 @@
     }
   },
   {
-    "id": "2629ca2d-8a18-49d9-96fb-385b0d18164f",
-    "name": "EdTech Innovation Hub",
-    "ticker": "EdTech Innovation Hub",
-    "signal": "U.S. Labor Department opens $98m fund for youth pre-apprenticeships with AI literacy requirement",
+    "id": "32add0f3-6ec7-48dc-bd9d-70030e710d62",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Business For Teens, an education startup focused on teaching entrepreneurship and financial literacy to teenagers, has announced the successful closure of a six-figure Pre-Seed funding round to support its growth and expansion across #Egypt and the #Gulf",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "27 minutes ago",
+    "time": "15 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.edtechinnovationhub.com/news/us-labor-department-opens-98m-fund-for-youth-pre-apprenticeships-with-ai-literacy-requirement",
+    "link": "https://www.linkedin.com/posts/fintechnewsksa_egypt-gulf-fintechnewssaudiarabia-activity-7413876055297638400-SS5n",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1258,33 +1037,16 @@
     }
   },
   {
-    "id": "85e50b2f-f66c-4ba1-ac57-28978ff906b0",
-    "name": "WebProNews",
-    "ticker": "WebProNews",
-    "signal": "Duolingo\u2019s Dynamic Island Ads Violate Apple Rules, Spark Backlash",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "7 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.webpronews.com/duolingos-dynamic-island-ads-violate-apple-rules-spark-backlash/",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "a56576ef-908f-4012-bb6b-3491dbf4836b",
-    "name": "Inc42",
-    "ticker": "Inc42",
-    "signal": "Indian Startup IPO Tracker 2025",
+    "id": "b9a9ebf4-c5ee-44ea-9487-412946d21108",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Thrilled to announce the 7th edition of ET TECH X - India\u2019s premier Education & Technology Expo - coming to Delhi from 22\u201324 September 2026 at Yashobhoomi (India International Convention & Expo Centre), Dwarka.This edition will bring together school a",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "10 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://inc42.com/features/indian-startup-ipo-tracker-2025/",
+    "link": "https://www.linkedin.com/posts/brahmam-v-kakani-91b41712a_ettechx-education-edtech-activity-7413961592070909952-A3ew",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1292,16 +1054,16 @@
     }
   },
   {
-    "id": "ed63870b-d715-4d17-b350-27608b117dae",
+    "id": "9ab98a3b-daa4-49ff-9e3e-982a10f464f1",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "Now widespread coverage in the mainstream media for Open Skies Network . The local and national media have now recognised what a hugely significant step this is, the first formal partnership between a drone company and the NHS anywhere in the country",
+    "signal": "The future of learning and work isn't about humans OR AI\u2014it's about knowing when to work independently, when to be AI-enabled, and when to go AI-native. I've started framing human-AI collaboration in three distinct modes: 1. AI Independent \u2013 The traditional",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "12 hours ago",
+    "time": "10 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/louis-gardner-a0010a46_nhs-to-use-drones-in-cornwall-to-improve-activity-7413561838468034560-u9ad",
+    "link": "https://www.linkedin.com/posts/franceqhoang_highereducation-aiineducation-edtech-activity-7413959144430292992-p4iM",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1309,16 +1071,16 @@
     }
   },
   {
-    "id": "d57db684-a86a-416d-973a-7cc272a72a01",
+    "id": "285261b8-32f7-4531-ba6b-784a574d03a3",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "Is it true that rabies vaccines given after October 2023 are fake\u2753 Do I need to get tested again\u2753 I have been hearing these questions repeatedly over the last few days. And honestly, this level of panic worries me more than the news itself. #Yes, there has been",
+    "signal": "Starting something new is always a mix of excitement, nerves, fear\u2026 and a big smile\ud83d\ude04. Today I begin the next chapter of my career, and I\u2019m thrilled to be joining the inspiring team at Adam Matthew Digital as a Sales Operations Specialist. Their mission - using t",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "18 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/manas-sharma-555b5b2b4_yes-abhayrab-no-activity-7413469580490342400-bacK",
+    "link": "https://www.linkedin.com/posts/tony-moglione_newbeginnings-newrole-adammatthewdigital-activity-7413836772083814400-nmTK",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1326,16 +1088,16 @@
     }
   },
   {
-    "id": "bf2482b2-a944-445b-a5df-1e8fb3b61c20",
+    "id": "e106be8d-ce23-4008-bc0f-8dd42d65e5ee",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "Sentinel Security Life Insurance Co. and Atlantic Coast Life Insurance Company, and their current and former affiliates are notifying 57,253 victims after a data security incident. 267 days to respond. Grade: F. #CyberNewsLive https://www.sslco.com/ https://ww",
+    "signal": "Good News for Robotics Lovers\ud83c\udf1fNew Feature Loading\u2026 Quarky Connect is On the Way! \ud83d\ude80 I\u2019m super excited to share a glimpse of something amazing we\u2019ve been building\u2026 \ud83e\udd16\u2728 What if one Quarky board could control multiple Quarkies - all at the same time?",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "24 hours ago",
+    "time": "12 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/cyber-news-live_attention-important-notice-re-change-healthcare-activity-7413387445314138112-deiN",
+    "link": "https://www.linkedin.com/posts/avani-hiranandani_quarky-quarkyconnect-stem-activity-7413924839633186816-0eo9",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1343,16 +1105,33 @@
     }
   },
   {
-    "id": "fc9785b9-b801-464d-8d62-9a0d3e166d15",
+    "id": "37071d11-538c-4735-9c92-bfa5982ab35e",
     "name": "LinkedIn",
     "ticker": "LinkedIn",
-    "signal": "\ud835\udc08 \ud835\udc21\ud835\udc1a\ud835\udc1d \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc29\ud835\udc2b\ud835\udc22\ud835\udc2f\ud835\udc22\ud835\udc25\ud835\udc1e\ud835\udc20\ud835\udc1e \ud835\udc28\ud835\udc1f \ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc29\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1f \ud835\udc1a \ud835\udc26\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc29\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2c \ud835\udc1d\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc25\ud835\udc32. \u2026. \ud835\udc07\ud835\udc1a\ud835\udc25\ud835\udc1f \ud835\udc1a \ud835\udc26\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc26\ud835\udc28\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2c \ud835\udc28\ud835\udc1f \ud835\udc1c\ud835\udc1a\ud835\udc2b\ud835\udc1e. \u2026 Before I transitioned into the top managerial levels where I sit today, I spent years on the front lines ihelping patie",
+    "signal": "Most institutions are busy with compliance. Very few are focused on actual work. Files are complete. Formats are followed. Committees exist. Meetings happen. But what about learning? That\u2019s often assumed not measured.The compliance trap: What gets rewa",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "14 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/rp-singh-26577550_educationleadership-schoolleadership-highereducation-activity-7413897767477129216-tSQ4",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "238dcb0b-4603-4f2a-bab2-f53669ae3bbc",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Nordic @edtech_news #148 Wks 50, 2025 - 01, 2026 from #nordicedtech & #balticedtech ecosystems #NordicMade #edtechdk #EdtechFinland #edtechnorge #swedishedtech @NordicEdtech @EdtechDenmark @EduClusterFin @osloedtech @EdtechSwede",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "13 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/dr-mohamed-tawfik_leadership-healthcare-patientcare-activity-7413546366100193280-SqPH",
+    "link": "https://x.com/siliconvikings/status/2008149905198453230?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1360,50 +1139,16 @@
     }
   },
   {
-    "id": "a8242726-503f-4353-a491-5f67a5c38725",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "VOICE OF HEALTHCARE",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "May 22, 2020",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://in.linkedin.com/company/vohglobal",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "7d726086-5c49-47a3-9018-efd836299a47",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "MedEdge MEA",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "Nov 30, 2023",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://ae.linkedin.com/company/mededgemea",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "4a3e6b6a-88fa-4309-b535-ec8c2a42bd4a",
+    "id": "2bc9db66-2163-4854-9258-f751bf4b41c2",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "#SundaySchool V stim during tach: \ud83e\udd13 A. A concealed AP is present, but ORT cannot be confirmed. B. A concealed AP is present, and this is ORT. C. The tachycardia is atypical AVNRT. #CEPS #RCES Curious for more like this? bit.ly/3MAYKy #EPeeps #VivaE",
+    "signal": "\ud83d\ude80 Telecom Engineer Turned EdTech Trailblazer: Abdinoor Alimahdi Bags Somali Hero Award for Revolutionising Literacy. Kenvan EdTech innovator Abdinoor Alimahdi has been honoured with the \u201cSomali Hero Award\u201d by Volunteers of Somalia (VOS) for his",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "9 hours ago",
+    "time": "18 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/ChartAcademy/status/2007848282286875005?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "link": "https://x.com/cbs_ke/status/2008068438216884415/photo/1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1411,16 +1156,16 @@
     }
   },
   {
-    "id": "b95c70e7-bc4f-4ea7-8dc1-1d6046f3ea62",
+    "id": "69856b69-f2ec-4c8e-b058-a21d9f777a65",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "Mayo Clinic (@MayoClinic) / Posts / X",
+    "signal": "The entire edtech sector faced the brunt of this. Vamsi Krishna of Vedantu tells me, \u201cThe word edtech had a negative connotation.\u201d",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "May 17, 2024",
+    "time": "19 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/MayoClinic?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "link": "https://x.com/patwardhannn/status/2008054938338041923?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1428,16 +1173,16 @@
     }
   },
   {
-    "id": "a246278a-1094-490b-b284-2cb52cb7bf92",
+    "id": "fa4f5cc3-c56b-48d9-9416-5201535055a1",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "Rapid Response 47 (@RapidResponse47) / Posts / X",
+    "signal": "\ud83d\ude80 Applications open for the Mastercard Foundation EdTech Fellowship (Uganda)! Growth-stage EdTech ventures can receive: \u2022 Up to $70K equity-free funding \u2022 Mentorship \u2022 Partnership & investor readiness \ud83d\uddd3 Deadline: 5 Feb 2026 Details: wp.me/p23f03-ik2",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "Jan 27, 2025",
+    "time": "20 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/RapidResponse47?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "link": "https://x.com/opportunitiesfy/status/2008044483276083242?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1445,16 +1190,84 @@
     }
   },
   {
-    "id": "44fec150-2480-47c4-86c1-3f2a3f2071b8",
+    "id": "57a200a7-db32-4ae0-be53-5e1214e76cf1",
     "name": "X (Twitter)",
     "ticker": "X (Twitter)",
-    "signal": "Mutma\u00dfliche Linksextreme haben mit diesem Anschlag wissentlich Menschenleben aufs Spiel gesetzt, besonders das von Patientinnen und Patienten in Krankenh\u00e4usern sowie von \u00e4lteren Menschen, Kindern und Familien. 1/2",
+    "signal": "Euan Blair edtech Multiverse laid off dozens more staff after losses widened.",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "14 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/andrewsduncan1/status/2008129905641279695?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "85f7f5a9-6c33-4baf-aa74-058932188f09",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Euan Blair edtech Multiverse laid off dozens more staff after losses widened",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "17 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/CityAM/status/2008091255507440021?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "efd7e4d2-29e1-45c3-8548-244029c91101",
+    "name": "districtadministration.com",
+    "ticker": "districtadministration.com",
+    "signal": "Top EdTech Products: These are our winners for 2026!",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "6 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://districtadministration.com/article/top-edtech-products-these-are-our-winners-for-2026/",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "2c015d08-8b2a-4473-b00d-6b15733a1418",
+    "name": "EdTech Innovation Hub",
+    "ticker": "EdTech Innovation Hub",
+    "signal": "Rohit Prasad reflected on leaving Amazon after 12 years | ETIH EdTech News",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "52 minutes ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.edtechinnovationhub.com/news/amazon-agi-chief-scientist-rohit-prasad-signals-departure-after-12-years",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "6dacad41-961b-4466-b556-e160f94972f2",
+    "name": "Trend Hunter",
+    "ticker": "Trend Hunter",
+    "signal": "Financial Learning Platforms",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "12 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/kaiwegner/status/2007796558209941963?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "link": "https://www.trendhunter.com/trends/cash-critters",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1462,16 +1275,16 @@
     }
   },
   {
-    "id": "cdb9cb52-8a48-4bef-9c88-89771b533e48",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "This Week (@ThisWeekABC) / Posts / X",
+    "id": "c8a75006-9926-4860-beb0-4105fe0027d6",
+    "name": "Inc42",
+    "ticker": "Inc42",
+    "signal": "Uncademy Rolls Back Changes To ESOP Exercise Window",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "Jun 2, 2024",
+    "time": "4 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/ThisWeekABC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "link": "https://inc42.com/buzz/uncademy-rolls-back-changes-to-esop-exercise-window/",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1479,16 +1292,16 @@
     }
   },
   {
-    "id": "9e1361c7-850e-4848-9a56-8d51a62b1ddb",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Maria Bartiromo (@MariaBartiromo) / Posts / X",
+    "id": "31b41e4e-1d9c-4ff5-b15b-08513a7179c2",
+    "name": "scanx.trade",
+    "ticker": "scanx.trade",
+    "signal": "WSFx Global Pay Limited Appoints Gaurang Vora as Senior Vice President & Head \u2013 Technology",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "May 9, 2024",
+    "time": "16 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/MariaBartiromo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "link": "https://scanx.trade/stock-market-news/stocks/wsfx-global-pay-limited-appoints-gaurang-vora-as-senior-vice-president-head-technology/29146513",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1496,16 +1309,16 @@
     }
   },
   {
-    "id": "50c1fa38-7ad1-4ee7-96db-7dca3e896d55",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "\u0985\u09b8\u09c1\u09b8\u09cd\u09a5 \u09aa\u09cd\u09b0\u09be\u09a3\u09c7 \u09b8\u09c7\u09ac\u09be\u09b6\u09cd\u09b0\u09af\u09bc \u09a8\u09a4\u09c1\u09a8 \u0986\u09b6\u09be \u0986\u09a8\u09c7, \u09b8\u09cd\u09a8\u09c7\u09b9, \u09b8\u09c7\u09ac\u09be, \u09af\u09a4\u09cd\u09a8 \u0986\u09b0 \u09ad\u09be\u09b2\u09cb\u09ac\u09be\u09b8\u09be\u09b0 \u0997\u09be\u09a8\u09c7\u0964 In Satgachia, Sebaashray 2 advances with a singular and unwavering purpose: ensuring timely and reliable healthcare access. The programme brings together diagnostic services, med",
+    "id": "8c6c4c0c-fa14-48da-b3f7-ded3f7762491",
+    "name": "EdTech Innovation Hub",
+    "ticker": "EdTech Innovation Hub",
+    "signal": "Hanshow and University of Cambridge begin joint research into hybrid wireless technology",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "9 hours ago",
+    "time": "17 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/abhishekaitc/status/2007844183521067402?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "link": "https://www.edtechinnovationhub.com/news/hanshow-and-university-of-cambridge-begin-joint-research-into-hybrid-wireless-technology",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1513,16 +1326,101 @@
     }
   },
   {
-    "id": "8b73ad4e-6a66-4615-a39b-7fd91a019979",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "HSE urges public to choose appropriate healthcare service this week as demand peaks.",
+    "id": "b629cf6e-6804-4b9c-91d4-abec06ccf66a",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "India Business Law Journal",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Dec 5, 2024",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://hk.linkedin.com/company/indiabusinesslawjournal",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "495b39b8-cad0-4eb6-b080-9151509ac21d",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "\u200b\u200b\ud83d\udce2 Thrilled to be speaking at ViVE 2026 in Los Angeles, Feb. 22\u201325! Honored to join top healthcare IT and digital health leaders shaping the future. Let\u2019s connect at #ViVEvent! https://lnkd.in/gVqpbWnt",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "8 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/tracydonegan_vivevent-activity-7413991052564566016-cTzq",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "d1090ea7-69ee-431b-a9db-09a82e89af32",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Northumbria in the News - December 2025",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "8 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/pulse/northumbria-news-december-2025-northumbria-healthcare-trust-zs62e",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "97a51f10-54f8-40ab-9c68-991046e0c615",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "\ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc25\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c \ud835\udc2d\ud835\udc28 \ud835\udc12\ud835\udc1a\ud835\udc2d\ud835\udc21\ud835\udc32\ud835\udc1a \ud835\udc15\ud835\udc0f \ud835\udc28\ud835\udc27 \ud835\udc1b\ud835\udc1e\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc02\ud835\udc04\ud835\udc0e \ud835\udc28\ud835\udc1f \ud835\udc01\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc2b\ud835\udc28\ud835\udc2d\ud835\udc21 \ud835\udc07\ud835\udc28\ud835\udc2c\ud835\udc29\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc25\ud835\udc2c! After 17+ years of exemplary service as CFO, Sathya VP has taken the helm as CEO, leading Billroth Hospitals into its next phase of growth and excellence. W",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "11 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/vohglobal_leadership-healthcare-womeninleadership-activity-7413939528857477120-OlDm",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "fc520f59-5e72-4132-ac2a-0654e7187af6",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Healthcare Industry News hiring Social Media Manager in Pune, Maharashtra, India",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "19 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://in.linkedin.com/jobs/view/social-media-manager-at-healthcare-industry-news-4351213406",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "454c1ed8-a056-42a9-b939-601259dee71f",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "\u2728 A huge congratulations to three of our outstanding Healthcare Support Workers \u2014 Christina Abarno, Cyril Mathew and Martha Stepney \u2014 who have been recently honoured with the NHS England Chief Nursing Officer Award. This recognition celebrates nur",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "12 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/CorkSafetyAlert/status/2007805375467212947?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "link": "https://www.linkedin.com/posts/oxford-university-hospitals-nhs-trust_a-huge-congratulations-to-three-of-our-activity-7413921740814180352-hGhp",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1530,16 +1428,747 @@
     }
   },
   {
-    "id": "be8ab18b-3136-4d50-91b4-75c1c1242341",
-    "name": "Yahoo Finance",
-    "ticker": "Yahoo Finance",
-    "signal": "Tenet Healthcare (THC): Taking a Fresh Look at Valuation After the Recent 5% Share Price Pullback",
+    "id": "3d42b4c8-2fcd-4974-b0c0-3c95e84b021c",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Great conversation - as always - with This Week Health. What do you think about my prediction on M&A this coming year? #clearsense #mergersandacquisitions #leadership #healthcare",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "10 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/jasonrose1_clearsense-mergersandacquisitions-leadership-activity-7413957363365441536-i8cU",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "b4da2150-d676-47ee-8abb-007c19746374",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "#SundaySchool #Answers \ud83d\udcafConcealed AP present, ORT \ud83e\udd13The PVC is synched w/ His bundle depol, terminates the tach w/o advancing the A. Rules out AT & AVNRT with a bystander AP. \ud83d\udd17 Link in bio \ud83c\udf0e bit.ly/3MAYKyu #EPeeps #VivaEP #EGMReview #Cultu",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "8 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/ChartAcademy/status/2008221483487666459?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "6aaec901-3e07-43c2-aa79-a073e4c7d7fd",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Decades before the program became defined by high-impact transfers, there was Don Rolfes.",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "10 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/GoBearcatsMBB/status/2008191990920253463?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "2d72142b-6876-4517-a7b2-94cd31f3602c",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Our stelara biosimilar is $360 plus shipping",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "10 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/mcuban/status/2008196029099946052?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "b56d39d7-acbe-4f74-a9d7-f1ea16ccabf5",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\ud83d\udea8It\u2019s confirmed Tim Walz has exited the race He announced a sudden withdrawal from the Minnesota governor\u2019s race following reports tied to an alleged billion-dollar Somali-Minnesota fraud scandal",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "9 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/Meta_BTC_/status/2008204237277463018?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "7012a42b-4112-4d96-bb53-75d12de5950a",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "#\u65e5\u5411\u5742\u306b\u306a\u308a\u307e\u3057\u3087\u3046 \u67d0\u30e1\u30f3\u30d0\u30fc \u30eb\u30d5\u30a3\u77e5\u3089\u305a \u67d0\u95a2\u897f\u51fa\u8eab\u30e1\u30f3\u30d0\u30fc \u30c0\u30a4\u30a2\u30f3\u6d25\u7530\u77e5\u3089\u305a \u67d0\u30e1\u30f3\u30d0\u30fc \u81ea\u8eab\u306e\u30bb\u30f3\u30bf\u30fc\u66f2\u5916\u3057\u30ea\u30f3\u30c0\u30ea\u30f3\u30c0 \u30ea\u30f3\u30c0\u30ea\u30f3\u30c0\u77e5\u3063\u3066\u308b\u306e\u9006\u306b\u9a5a\u304d \u4e94\u671f\u751f\u5168\u54e1 \u3055\u3093\u307e\u3055\u3093\u767b\u5834\u306e\u30bf\u30f3\u30bf\u30bf\u30bf\u30f3\u77e5\u3089\u305a\ud83e\udd79\u055e \u539f\u53e3\u3042\u304d\u307e\u3055\u306e\u30e2\u30ce\u30de\u30cd\u3069\u308c\u3082\u523a\u3055\u3089\u305a\ud83d\ude05",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "20 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/0M4NoGTguM53113/status/2008034361783005583?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "e80a52b6-c062-41b7-b086-ffe7cbe7ff37",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Adam Feuerstein \u2721\ufe0f (@adamfeuerstein) / Posts / X",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Jun 15, 2024",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/adamfeuerstein?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "73fe5196-b1c2-422c-9ef1-ec1015512d4d",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Democrats have forced a vote to restore the ACA tax credits and reverse massive premium hikes that would otherwise devastate working families. This week, Republicans will have to choose between keeping health care unaffordable or finally delivering relief",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "8 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/SpeakerPelosi/status/2008215671859990572?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "aa8554f3-3e1c-4823-a945-e16506fc5d1d",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Extremely excited to be resuming my favorite posting today, Paediatrics.",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "11 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/omo_Akinbile/status/2008172096208466064?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "d37ed81b-c896-4fdd-b67b-64c365006d94",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "House Democrats are forcing a vote to extend the ACA tax credits this week. Will the GOP join us to protect health care?",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "11 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/WhipKClark/status/2008180135539949714?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "29412113-0385-48e5-a142-b456babeeaac",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Full @GovernorShapiro answer. Nuanced but very strong. Key part: \u201cWe have a huge amount of work to do here at home. You know, a whole lot of folks can't afford their grocery bills. And Trump's made that worse with the trade war. Health insurance premiums",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "8 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/jjabbott/status/2008220629325988001?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "e36195c7-0a11-4333-bdcd-b60a85145057",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Tom Winter (@Tom_Winter) / Posts / X",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Jun 11, 2024",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/Tom_Winter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "5dae8006-c71d-4474-a452-94035ab2dd66",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "The Minnesota Star Tribune (@StarTribune) / Posts / X",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Jun 7, 2024",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/StarTribune?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "d2139687-2fd7-4905-9f53-5164767ad9b3",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Glenn Gabe (@glenngabe) / Posts / X",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Jun 3, 2024",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/glenngabe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "a505750e-bc36-4cc2-b542-939bf579445d",
+    "name": "Home Health Care News",
+    "ticker": "Home Health Care News",
+    "signal": "2026 Home Health Forecast: 11 Executives On The Forces Shaping The Year Ahead",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "2 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://homehealthcarenews.com/2026/01/2026-home-health-forecast-11-executives-on-the-forces-shaping-the-year-ahead/",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "ec9274a7-042f-4153-b275-cc2567b29b31",
+    "name": "samsung.com",
+    "ticker": "samsung.com",
+    "signal": "Healthcare workers are burned out, but tech can help",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "10 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://insights.samsung.com/2026/01/05/healthcare-workers-are-burned-out-but-tech-can-help/",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "59b510a1-e2a9-4e9d-8e75-e0a9c8ca0a19",
+    "name": "The HIPAA Journal",
+    "ticker": "The HIPAA Journal",
+    "signal": "Healthcare Data Breach Statistics",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "16 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.hipaajournal.com/healthcare-data-breach-statistics/",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "8df828b4-4b49-4e3f-8472-34a9e2582e7e",
+    "name": "Modern Healthcare News",
+    "ticker": "Modern Healthcare News",
+    "signal": "Here are the state healthcare laws taking effect in 2026",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "14 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "http://www.modernhealthcare.com/politics-regulation/mh-state-healthcare-laws-2026-california-illinois-florida/",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "4fb584ac-3b3f-4cdb-8156-e67e1778f907",
+    "name": "TheLandOnline",
+    "ticker": "TheLandOnline",
+    "signal": "Healthcare Focus: Health insurance should allow for rational decision making",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "8 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.thelandonline.com/news/healthcare-focus-health-insurance-should-allow-for-rational-decision-making/article_3e0604f8-d6ba-488d-9384-e97ce95b17f9.html",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "e5c5df37-697b-4a76-a72d-fcf7d0b14cac",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "CloudHire",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Nov 30, 2022",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/company/cloudhire1",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "cf85e73a-c661-43ca-8894-a40bc01ba393",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "IndiaAI",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Apr 30, 2020",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://in.linkedin.com/company/indiaai",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "b5cb83d4-997a-428f-8da1-cb38dbe46852",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Lyte",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "2 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/company/lyte-ai",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "093145af-9a36-4525-bb0b-2385ead4cb2e",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "GOOD NEWS!!! We have extended the submission deadline for our initiative to celebrate Boston's Top AI Product Managers in Boston to Friday, January 16th! The link for submissions is in the comments. Do you have a coworker, manager, direct report, friend...",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "11 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/keithcline_good-newswe-have-extended-the-submission-activity-7413944334108004354-rFwG",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "af10e5a6-4df1-41f9-a07a-64942c68343f",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "In the world of product market fit, there are three levels: - Done for you: least work, most cost - Done with you: 50/50 split on work, medium cost - Done by you: most work, least cost The analogy I often use: - Done for you: dining out. None of the work, all of the c",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "9 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/cspenn_ai-generativeai-genai-activity-7413969797107044352-f09h",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "4ff445d2-b204-4619-8cc9-1d20e98cf4f0",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "If you\u2019re looking for a great way to start the new year, check out this awesome conversation between Mike Huffaker and Stephenie Goddard on The Dental Economist Show. I\u2019ve had the pleasure of seeing Stephenie on stage at Women In DSO\u00ae, but I didn\u2019t kn",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "14 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/bethgaddis_dental-dso-leadership-activity-7413902143339921408-sUVg",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "90e1b650-e73d-4e83-b283-60e8ba93c2fc",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "Now is an unusually promising moment for early-stage technology builders. The cost of experimentation with AI is lower than ever and entire categories are still wide open. Check out our Microsoft CTO Kevin Scott\u2019s advice for founders: https://msft.it/6040t0mQn",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "19 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/hanyazzam_startupscan-do-more-right-now-with-ai-5-activity-7413822019043061760-wFJ4",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "b041c610-1622-49d7-baa2-82bebf12fd78",
+    "name": "LinkedIn",
+    "ticker": "LinkedIn",
+    "signal": "AI didn\u2019t kill SaaS. It killed average SaaS. And that is great news. AI makes it cheap to build. So the only SaaS that wins now is the one that is hard to copy. Average SaaS used to survive on: \u2022 A basic CRUD app with a clean UI \u2022 A few Zapier links and webhook",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "17 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://www.linkedin.com/posts/mohit4success_ai-didnt-kill-saas-it-killed-average-activity-7413844292076703744-py_t",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "c5353b71-1570-4a91-bfa0-828ee5c84312",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Enjoy Poplus, the social platform made easy with AI. \ud83e\udd16\u2728 Create, connect, and engage effortlessly\u2014AI helps you get more from your social experience. #Poplus #AI #SocialFi #Web3",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "19 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/GemHUB_Protocol/status/2008052565481848920?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "e4b7ebff-6b9c-4177-aaa4-18f850844d31",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\u23f1\ufe0fPlusieurs trains sont impact\u00e9s et doivent patienter : #REMI860005 Orl\u00e9ans\u27a1\ufe0fNantes (11h09) +2h' #REMI860128 Angers\u27a1\ufe0fTours (12h39) +2h' #REMI860127 Tours\u27a1\ufe0fAngers (12h43) +2h' #REMI863721 Tours\u27a1\ufe0fLa Roche-sur-Yon (13h55) +1h' Je revien",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "12 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/RemiTrain/status/2008155369353203718?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "f6fe9d9e-a834-4874-8481-9d10171455f6",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\u2600\ufe0f AI Solara: Marketing, Tech, and the Trillion-Dollar Company youtube.com/watch?v=sTSBOn\u2026 \ud83e\uddf5\ud83d\udc47\ud83d\udc46 @prsarahevens @Mike_Stelzner @MariSmith @WillHobson @iamdanrice @Zoicks @aleydasolis @ChrisDo @Taliawolf @BrianClark",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "6 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/paramendra/status/2008250378039820566?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "18335563-fe9c-49dd-9955-556a396535de",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "SEBS Brain Drain youtu.be/eXbYZLF6UP0 AI + Marketing = A Solara youtu.be/eXbYZLF6UP0 \ud83e\uddf5\ud83d\udc46\ud83d\udc47 @crestodina @markwschaefer @wilreynolds @CyrusShepard @CarrieRosePR @oligardner @peeplaja @aleyda @RossHudgens @bill_slawski",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "6 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/paramendra/status/2008250387330105436?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "9f7caeef-1a7c-44cb-87f5-6664f84a0601",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "sydht.ai (@sydhtai.bsky.social) (@sydhtai) / Posts / X",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "12 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/sydhtai?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "275caf68-0803-4997-ac0b-8b35f15da6d3",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\"#REMI860127\" - Results on X | Live Posts & Updates",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "9 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/hashtag/REMI860127?src=hash&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "5703789c-1e86-4708-aa64-f60c82de9f49",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "LCC\u306e\u30c1\u30b1\u30c3\u30c8\u304c\u5b89\u3044\u7406\u7531\u3002 \u9001\u6599\u304c\u7121\u6599\u306b\u306a\u308b\u7406\u7531\u3002 \u30b3\u30f3\u30d3\u30cb\u304c24\u6642\u9593\u958b\u3044\u3066\u3044\u308b\u7406\u7531\u3002 \u305d\u306e\u300c\u5b89\u3055\u3068\u4fbf\u5229\u3055\u300d\u306e\u3057\u308f\u5bc4\u305b\u306f\u3001 \u5168\u3066\u3053\u306e\u65e9\u671d\u306e\u8eca\u4e21\u306b\u8a70\u307e\u3063\u3066\u3044\u308b\u3002 \u79c1\u305f\u3061\u306f\u5b89\u4fa1\u306a\u30b5\u30fc\u30d3\u30b9\u3092\u4eab\u53d7\u3059\u308b\u4ee3\u511f\u306b\u3001 \u5f7c\u3089\u304c\u4eba\u751f\u3092\u304b\u3051\u3066\u652f\u3048\u3066\u304f\u308c\u3066\u3044\u308b\u3053\u3068\u3092 \u77e5\u3063\u3066\u304a\u304b\u306d\u3070\u306a\u3089\u306a\u3044\u3002",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "17 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/nomado_tnk/status/2008083839156150743?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "a74fa254-2d7a-4bf1-8268-5527605a8b74",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\u30a8\u30eb\u30b5\u30b2\u30fc\u30c8\u9ad8\u5e02full #ai\u753b\u50cf #\u30e9\u30a4\u30d6 #\u798f\u97f3\u8bb2\u9053 #elsagate #\u90a6\u30ed\u30c3\u30af #\u7f51\u7edc\u6559\u4f1a #takaichisanae #\u30d0\u30f3\u30c9 ... youtube.com/shorts/oGbfXjh\u2026 @YouTube\u3088\u308a",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "12 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/hymkillw3/status/2008155621888319983?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "678c5d1c-aa1a-4aa5-a6db-4fcf491510ad",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\u5409\u5d0e\u9054\u5f66\u300c\u4eca\u5e743\u6708\u306b\uff08\u65e5\u9280\uff09\u91ce\u53e3\u5be9\u8b70\u59d4\u54e1\u306e\u4efb\u671f\u304c\u6765\u308b\u3093\u3067\u3059\u3088\u3002\u3044\u308f\u3086\u308b\u30ea\u30d5\u30ec\u6d3e\u306b\u306a\u308b\u304b\"\u4e3b\u6d41\u6d3e\"\u306b\u306a\u308b\u304b\u3067\u3059\u306d\u300d \u6c60\u8c37\u4ea8\u300c\u9ad8\u5e02\u30ab\u30e9\u30fc\u306b\u306a\u308b\u304b\uff01\u3068\u3044\u3046\u3053\u3068\u3067\u3059\u306d\u300d \u4e3b\u6d41\u6d3e\uff1f\u5f7c\u3089\u306f\u4e16\u754c\u3067\u3082\u805e\u3044\u305f\u3053\u3068\u304c\u306a\u3044\u73cd\u7406\u8ad6\u3092\u5c55\u958b\u3057\u3066\u307e\u3059\u304c\u3001\u3069\u3053\u304c\u4e3b\u6d41\u6d3e\u306a\u306e\u3055\u3001\u5409\u5d0e\u6c0f( *\uff40\u03c9\u00b4) #wbs",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "3 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/hongoutwo/status/2008296242242351497?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "7c2813e2-a056-4e60-b3e5-aa24e51f868a",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\u3010\u9006\u5f35\u308a\u3011AI\u6642\u4ee3\u3060\u304b\u3089\u3053\u305d \u3042\u3048\u3066\u300c\u975e\u52b9\u7387\u300d\u306b\u5168\u632f\u308a\u3059\u308b \u2460\u300c\u30bf\u30a4\u30d1\u300d\u3092\u7121\u8996\u3059\u308b \u52b9\u7387\u3088\u304f\u6b63\u89e3\u3060\u3051\u77e5\u308a\u305f\u3044\u306a AI\u306b\u805e\u3051\u3070\u3044\u3044\u3002 \u79c1\u304c\u5c4a\u3051\u305f\u3044\u306e\u306f\u3001\u9060\u56de\u308a\u3057\u3066\u3001 \u8ee2\u3093\u3067\u6ce5\u3060\u3089\u3051\u306b\u306a\u3063\u305f \u300c\u904e\u7a0b\u300d\u305d\u306e\u3082\u306e\u3002 \u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8\u3057\u305f\u8584\u3044\u60c5\u5831\u3088\u308a\u3001 \u6ce5\u81ed\u304f\u30ea\u30a2\u30eb\u306a\u5b9f\u4f53\u9a13\u306e\u65b9\u304c\u3001 \u7d50\u5c40\u306f\u4eba\u306e",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "3 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://twitter.com/minami_freeup/status/2008290902180307415?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "c31c6030-3a84-47c3-b327-dc9134296190",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "This is #NVIDIARubin. Six new chips designed to deliver one incredible AI supercomputer. Built with extreme co-design across compute, networking, and software, Rubin sets a new standard for building and deploying the world\u2019s most advanced AI systems at t",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "2 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/nvidia/status/2008310817184264520?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "f21db52a-6072-45eb-9db8-0c19c94b51dc",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "vitalik.eth (@VitalikButerin) / Posts / X",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Nov 22, 2023",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/VitalikButerin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "e787e97d-93bb-4a5e-839b-db59e02181d7",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\ud83d\udcbc Job loss from AI. A compilations of opinions by today's leading figures. We need to be prepared.",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "13 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/rohanpaul_ai/status/2008147390545748022?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "2d60d5e9-8d24-4051-b626-9266ce55fe45",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "tired: AI generating Markdown docs to explain something to you wired: AI generating slide decks with interactive simulations for you to explore",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "10 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/geoffreylitt/status/2008194240946565498?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "13b1fe80-2581-4e54-b0ee-dbced8ccb36f",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "\ud83c\udf1f\ud83e\udd1d Breaking News: Gaea AI x Pundi AI Partnership! We\u2019re excited to unveil an exciting collaboration between Gaea AI and Pundi AI! Together, we\u2019re joining forces to push the boundaries of [specific field/technology, e.g., AI, blockchain, etc.], paving the way for",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "18 hours ago",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/aigaealabs/status/2008072548618248691?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "1c4985ca-d42a-44f7-a840-f81ae8953fb2",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "Hiten Shah (@hnshah) / Posts / X",
+    "sentiment": "neutral",
+    "relevant": false,
+    "score": 0,
+    "time": "Jun 11, 2024",
+    "brief": "Filtered: Low keyword density (quota saving).",
+    "link": "https://x.com/hnshah?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "metrics": {
+      "utility": 0,
+      "novelty": 0,
+      "impact": 0
+    }
+  },
+  {
+    "id": "8ffa39dd-8785-4698-842f-47b1b88e4ce2",
+    "name": "X (Twitter)",
+    "ticker": "X (Twitter)",
+    "signal": "If the Giants are using AI in their coaching search, here are the faces Chat GPT showed me for 3 examples of the ideal Giants coaching candidate:",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "5 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://finance.yahoo.com/news/tenet-healthcare-thc-taking-fresh-200921835.html",
+    "link": "https://x.com/PLeonardNYDN/status/2008261444597674362/photo/1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1547,16 +2176,16 @@
     }
   },
   {
-    "id": "14c35b9a-867b-49ca-ad53-a0c2ca252603",
-    "name": "\uc870\uc120\uc77c\ubcf4",
-    "ticker": "\uc870\uc120\uc77c\ubcf4",
-    "signal": "Physician-Venture Capitalist Reveals Strategy to Spot Next Bio Stock Leader",
+    "id": "cb4cc4ac-2c6c-48bb-b851-1d31434e0470",
+    "name": "Marin Independent Journal",
+    "ticker": "Marin Independent Journal",
+    "signal": "Another View: EPA helping AI industry grow but ignoring technology\u2019s power to protect environment",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "4 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.chosun.com/english/market-money-en/2026/01/05/YRSR2NTJSBE6TBB4N343IYUMTM/",
+    "link": "https://www.marinij.com/2026/01/05/opinion-epa-clears-hurdles-for-ai-industry-yet-snubs-its-power-to-protect-public-2/",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1564,16 +2193,16 @@
     }
   },
   {
-    "id": "fe126a58-1b3c-47a9-93fc-94391c6ce906",
-    "name": "Simply Wall Street",
-    "ticker": "Simply Wall Street",
-    "signal": "Tenet Healthcare Corporation (NYSE:THC) Might Not Be As Mispriced As It Looks",
+    "id": "81e9527d-1028-4c32-9448-426e5aeed787",
+    "name": "Oklahoma Energy Today",
+    "ticker": "Oklahoma Energy Today",
+    "signal": "Billionaire expands into AI industry in west Texas",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "12 hours ago",
+    "time": "3 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://simplywall.st/stocks/us/healthcare/nyse-thc/tenet-healthcare/news/tenet-healthcare-corporation-nysethc-might-not-be-as-mispric-1/amp",
+    "link": "https://www.okenergytoday.com/2026/01/billionaire-expands-into-ai-industry-in-west-texas/",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1581,390 +2210,16 @@
     }
   },
   {
-    "id": "86955b03-28c7-4aa2-b497-9f4641cd127d",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "A Utah police officer shapeshifted into a frog. At least, that's what the AI-generated report claimed. The truth? Body cam transcription software picked up \"The Princess and the Frog\" playing on a TV in the background and wove Disney dialogue into an official p",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "12 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/maxtopaz_a-utah-police-officer-shapeshifted-into-a-activity-7413564879984406528-igkm",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "e25120ba-8dab-4930-88b0-be12ff4cef72",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Major banks are about to cut 200,000 jobs. But the real reason is not AI. And it's not a financial crisis either. It's because banks are replacing the internal systems designed to slow risk down. That distinction matters. According to Morgan Stanley, up to 10% of th",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "6 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/chiaragallesephd_major-banks-are-about-to-cut-200000-jobs-activity-7413648676109156352-YMjq",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "404602fe-8851-48e3-b199-cf9d5301f28d",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "AI's moral moment arrives, courtesy of Grok - Five stories to know this week: 4th January",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "16 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/pulse/ais-moral-moment-arrives-courtesy-grok-five-stories-stokel-walker-szehe",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "ce409d24-14c4-40ee-b78d-36cd2d510acd",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Telegram AI Summaries: Privacy Claims, Risks, and Unknowns",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "12 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/pulse/telegram-debuts-ai-summaries-using-privacy-first-network-kumar-l-ah5hc",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "ea0e4396-87e2-4f69-85de-8f13b68245a1",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "I did the math this morning and here is some great news for Data and AI leaders. If you are one of them, keep reading \ud83d\ude42 A very real conversation I hear all the time \ud83d\udc47 We need a centralized way to democratize Data and AI. In simple English We need to give AI t",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "7 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/neerajsabharwal_i-did-the-math-this-morning-and-here-is-some-activity-7413643513495715842-bu1S",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "580d02f5-d1a7-4b8f-a031-f1e1b339d016",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "Indeed, AI will not steal his job.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "9 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/msukhareva_indeed-ai-will-not-steal-his-job-activity-7413608367803322368-0Vai",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "0740ec5d-d677-40f5-baa7-a3d52a0e192a",
-    "name": "LinkedIn",
-    "ticker": "LinkedIn",
-    "signal": "\ud83e\udd16People say AI is extremely powerful. Then an article like this shows up \ud83d\ude05 Note: This article is AI-generated. The image is AI-generated. Even this post you\u2019re reading right now is AI-generated. But\u2026 Can AI do your laundry and dishes? \ud83e\udd14 Still need to check wit",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "11 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.linkedin.com/posts/priyank-jain-connect_people-say-ai-is-extremely-powerful-then-activity-7413580330923745280-88qn",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "39bcf88d-214c-4bef-ba50-dadbc889913d",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "NeuraNest.AI (@NeuraNest_AI) / Posts / X",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "May 7, 2025",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/NeuraNest_AI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "d73667fd-9065-4967-b779-88a1706af7c9",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "AI Gemini was used to shot and forgot to remove the watermark \ud83d\ude02 #Jananayagan #JanaNayaganTrailer",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "21 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/GemsOfEverythin/status/2007657203222958323?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "9adbc026-16eb-40c7-91dd-f0a6e7572502",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Our staffer thought he knew what he was doing wrong. A new app cleared things up. \ud83d\udc40",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "12 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/GolfDigest/status/2007799177451917672?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "31b9b36c-f374-4358-b47d-d9fd5f3c0164",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Smart money tracked $MILKSHAKE: 269K accumulation 952K distribution 3.54X profits | 28m 13c1vzFoT9DwH4fsFf3AKsK375HAHpq5yzQ9kS5hfly Don't miss the next one \u27a1\ufe0f Bio \ud83d\udfe3 SOLANA",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "15 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/0xepo/status/2007756710682017944?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "06be9475-b161-4c6d-b0c4-02a637bb2cb8",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Score: LOU | $LOU 2.04X 31K \u2192 62K 5m CA: DPcBM6ci2T4jRwGY7GC87DLShWYFaBUV31yB2bM3rocket Daily gems \u2192 Link in bio \ud83d\udfe3 SOLANA",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "8 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/0xepo/status/2007858122661245001?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "5f5de14d-1a99-4c1a-8a59-6c295a36f93a",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Nano Banana + MakeUGC + Veo3 = AI Ad Factory \ud83e\udd16 Creates hundreds of ads daily, fully automated. No creators. No agencies. Drop a competitor ad \u2192 pick an avatar \u2192 AI rebuilds it. Comment \u201cNano\u201d for the FREE workflow (must follow)",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "14 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/lihazadn_Ai/status/2007772661217399019?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "c1b19283-1bed-44c3-9871-6e0bbda8fd1b",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "I used to hear privacy-preserving AI and assume it was marketing fluff. Digging into how @bluwhaleai handles it changed that. They don\u2019t just promise privacy they design for it. TEEs handle computation, ZK proofs verify outcomes, and users choose what gets",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "18 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/xyzprefix/status/2007710976150516015?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "2d91013d-ac4c-4f87-8fe9-d60cdb4caa36",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "singular \u2022 $singular returns: Entry point-in: 41K Summit: 144K Gain: 3.52X Time: 13m 5gdEMDecMvoJTRxybpvLYQ8GxfGtAqVjLSwPm5bNfly Intel: t.me/+P99bapG1Yo04Z\u2026 \ud83d\udfe3 SOLANA",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "9 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/0xepo/status/2007841456426488172?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "7ba74882-ed54-4e13-959b-90241334755c",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "\u9577\u3044\u304a\u6b63\u6708\u4f11\u307f\u304c\u7d42\u308f\u308a\u3001\u4ed5\u4e8b\u306b\u623b\u308a\u307e\u3057\u305f\u304b\uff1f \u5fa9\u5e30\u521d\u65e5\u306e\u4f1a\u8b70\u3067\u306f\u5fd9\u3057\u305d\u3046\u306b\u898b\u3048\u308b\u3088\u3046\u306b\u9811\u5f35\u308b\u3002\ud83e\udd2d After a long winter break, I will try to be creative back at work \u2026. \ud83e\udd71 \ud83d\ude02",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "14 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/0001enlightened/status/2007763642587201537?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "3d7ad510-129c-4ae8-9fb0-15dd8761d10d",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "\u4e95\u4e0a\u6d41\u306b\u30a8\u30d3\u30c7\u30f3\u30b9\u30d9\u30fc\u30b9\u3067\u89e3\u8aac\u203c\ufe0f \ud83e\udd81\u3010\u30d7\u30ec\u30df\u30a2\u306e\u591c\u3002\u69cb\u9020\u3067\u52dd\u3064\u8005\u3001\u7a7a\u6c17\u3067\u52dd\u3064\u8005\u3011 \u4eca\u591c21:30\u3001\u30ea\u30fc\u30ba vs \u30de\u30f3\u30c1\u30a7\u30b9\u30bf\u30fc\u30fb\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u3002 \u30b7\u30b9\u30c6\u30e0\u306f3-5-2\u5bfe3-4-2-1\u3002 \u898b\u305f\u76ee\u306f\u4f3c\u3066\u3044\u308b\u3002\u3051\u3069\u3001\u69cb\u9020\u304c\u9055\u3046\u3002 \u30ea\u30fc\u30ba\u306f\u300c\u5bc6\u5ea6\u300d\u3001\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u306f\u300c\u901f\u5ea6\u300d\u3002 \u3069\u3061\u3089\u304c\u5148\u306b\u201c\u7a7a\u9593\u201d\u3092\u5236\u3059\u308b\u304b",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "13 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://twitter.com/jirojiro0613/status/2007791594066567607?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "07f98c87-db15-4b77-b37f-9ec4e217638c",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "AI is getting out of hand",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "15 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/HumansNoContext/status/2007754525860352133?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "0b777b1b-293d-4728-9a90-7b3d0659cfff",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "The lineup is set for the NVIDIA Live pregame at CES 2026. Visionaries across AI infrastructure, open ecosystems, and physical AI will share how they\u2019re building the AI-native era. All before CEO Jensen Huang takes the stage. Join us on January 5 at 11:45 a.",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "8 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/nvidia/status/2007859570618642626?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "3883c4ea-07d9-4fe7-b12a-baba160e422e",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "To cut through the noise on this topic, it\u2019s helpful to provide more more context: - We have built several versions of this system last year. - There are tradeoffs and there hasn't been a clear winner. - When prompted with the best ideas that survived, coding agent",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "21 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/rakyll/status/2007659740126761033?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "83fecf39-9b56-4f6c-bd68-239b399ac40d",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "I have archives no one thought to save for AI training. True AGI will not understand the universe, no matter how many billions of simulations it makes without the 1000s of hours I have curated from real life. Now simulations are good for some things but not all thi",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "8 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/BrianRoemmele/status/2007852275998523484?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "6b421813-ebc6-41bb-806e-36f0db699cd1",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Ali Ghodsi, the cofounder and CEO of Databricks, says Zoom has a massive chance to build an AI-first product, that could seriously disrupt the traditional enterprise SAAS. Because it sits on the largest datasets of meeting videos and transcripts. The big pain in",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "10 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/rohanpaul_ai/status/2007831187994411178?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "23ddfde5-fe63-4352-8716-771b427874ed",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Sorry false alarm I was tricked by AI \ud83d\ude2d\ud83d\ude14 It should still leak soon",
+    "id": "236510af-abd4-4b44-9e09-07f7f986388c",
+    "name": "Daytona Beach News-Journal",
+    "ticker": "Daytona Beach News-Journal",
+    "signal": "VeritasChain Standards Organization Publishes CAP v0.1 for Verifiable AI Provenance in Creative Industries",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
     "time": "4 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/MyTimeToShineH/status/2007923333632020659?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "link": "https://www.news-journalonline.com/press-release/story/17952/veritaschain-standards-organization-publishes-cap-v01-for-verifiable-ai-provenance-in-creative-industries/",
     "metrics": {
       "utility": 0,
       "novelty": 0,
@@ -1972,186 +2227,16 @@
     }
   },
   {
-    "id": "7c569499-e3ff-4bb3-a063-7995304172bb",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "instead of letting AI guess, add: [YOUR PROMPT] Before you start, ask me any questions you need so I can give you more context. Be extremely comprehensive",
+    "id": "51796116-be00-4108-86ef-7d596e0eb078",
+    "name": "PetfoodIndustry",
+    "ticker": "PetfoodIndustry",
+    "signal": "10 takeaways: AI transforms independent pet retail operations",
     "sentiment": "neutral",
     "relevant": false,
     "score": 0,
-    "time": "15 hours ago",
+    "time": "8 hours ago",
     "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/godofprompt/status/2007753830931591569?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "ced25bc0-45f2-453d-9358-4805831a41b3",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "The Spectator Index (@spectatorindex) / Posts / X",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "Apr 14, 2024",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/spectatorindex?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "5865a5f1-97ff-4d65-9cbe-777e4fdbd5b9",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "Please do NOT try to use AI to generate memes like these, have we forgotten about the harmful stuff that happens because of AI? No hate to OPs but claiming to be against AI while using gr*k to generate these is kind of hypocritical. I urge u all to think twice bef",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "22 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/strtwrdrambling/status/2007650697043685556?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "1a6e32f2-712f-439e-acb4-5344e50f1cd0",
-    "name": "X (Twitter)",
-    "ticker": "X (Twitter)",
-    "signal": "so many people think this is AI when its actually a real deleted speed music video",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "6 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://x.com/ExtremeBlitz__/status/2007883969476587922?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "ee36146c-83fa-432e-965f-5b643448cf3d",
-    "name": "WebProNews",
-    "ticker": "WebProNews",
-    "signal": "2025 Tech Breakthroughs: AI, Quantum, and Innovations Reshape Industries",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "4 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.webpronews.com/2025-tech-breakthroughs-ai-quantum-and-innovations-reshape-industries/",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "689d045b-2e3b-4366-97c0-2c0fcc44dde9",
-    "name": "\uc870\uc120\uc77c\ubcf4",
-    "ticker": "\uc870\uc120\uc77c\ubcf4",
-    "signal": "AI Transforms Industries into Data-Driven Enterprises",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "9 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.chosun.com/english/industry-en/2026/01/05/LD7RE6KY2NGZXMINDK44RKMUGU/?outputType=native",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "a86b77d6-728a-4dd3-b731-a4fb99f7a8b1",
-    "name": "Yahoo Finance",
-    "ticker": "Yahoo Finance",
-    "signal": "Perplexity CEO Says On-Device AI Threatens Data Centers As Industry Faces '$10 Trillion Question' \u2014 Apple, Qualcomm Positioned To Benefit",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "21 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://finance.yahoo.com/news/perplexity-ceo-says-device-ai-033019227.html",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "03059465-c0e1-4bab-8b23-c6f6d4944103",
-    "name": "Global Times",
-    "ticker": "Global Times",
-    "signal": "AI evolution likely to bring about greater opportunities for economy in 2026",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "10 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://www.globaltimes.cn/page/202601/1352254.shtml",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "9f037e84-a30d-465b-b0ff-fa0478843128",
-    "name": "PPC Land",
-    "ticker": "PPC Land",
-    "signal": "Marketing platform shifts and algorithm volatility mark week's industry news",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "12 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://ppc.land/marketing-platform-shifts-and-algorithm-volatility-mark-weeks-industry-news/",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "54ef29cf-099f-40dd-b595-37efed62c00f",
-    "name": "The Realty Today",
-    "ticker": "The Realty Today",
-    "signal": "500-Acre AI and Financial Services Hub Planned in Sector 11 by YEIDA",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "7 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://therealtytoday.com/news/trending/500-acre-ai-and-financial-services-hub-planned-in-sector-11-by-yeida/",
-    "metrics": {
-      "utility": 0,
-      "novelty": 0,
-      "impact": 0
-    }
-  },
-  {
-    "id": "88746810-a15b-4d1e-8218-ee1ca4861d73",
-    "name": "The Economic Times",
-    "ticker": "The Economic Times",
-    "signal": "Microsoft CEO Satya Nadella calls for a big AI reset in 2026, says we need to move beyond...",
-    "sentiment": "neutral",
-    "relevant": false,
-    "score": 0,
-    "time": "20 hours ago",
-    "brief": "Filtered: Low keyword density (quota saving).",
-    "link": "https://m.economictimes.com/news/new-updates/microsoft-ceo-satya-nadella-calls-for-a-big-ai-reset-in-2026-says-we-need-to-move-beyond-/amp_articleshow/126331455.cms",
+    "link": "https://www.petfoodindustry.com/business-strategy/news/15775162/10-takeaways-ai-transforms-independent-pet-retail-operations",
     "metrics": {
       "utility": 0,
       "novelty": 0,
