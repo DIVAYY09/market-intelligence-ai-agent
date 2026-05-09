@@ -1,9 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 @import "tailwindcss";
 
+@layer base {
+  html {
+    overscroll-behavior: none;
+  }
+  body {
+    overscroll-behavior: none;
+    overflow-x: hidden;
+    overflow-y: visible; /* This guarantees native trackpad scroll works */
+  }
+}
+
+@theme {
+  --color-retro-light: #F4F0EB;
+  --color-retro-dark: #121212;
+  --color-retro-gray: #888888;
+  --color-retro-ink: #1a1a1a;
+  --color-retro-paper: #F4F0EB;
+  --color-retro-surface: #FFFFFF;
+  --color-retro-dark-surface: #1E1E1E;
+  
+  --shadow-retro: 4px 4px 0px 0px rgba(26,26,26,1);
+  --shadow-retro-dark: 4px 4px 0px 0px rgba(255,255,255,0.15);
+  --shadow-retro-hover: 8px 8px 0px 0px rgba(26,26,26,1);
+  --shadow-retro-dark-hover: 8px 8px 0px 0px rgba(255,255,255,0.15);
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
 body {
   font-family: 'Inter', sans-serif;
-  @apply bg-slate-900 text-white selection:bg-amber-500/30;
-  background-image: radial-gradient(circle at 50% 0%, #1e293b 0%, #0f172a 100%);
-  min-height: 100vh;
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background-color: #1A1A1A; border-radius: 0px; }
+.dark ::-webkit-scrollbar-thumb { background-color: #F0EBE1; }
+
+
+.bg-noise-texture {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
 }

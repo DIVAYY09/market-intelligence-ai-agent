@@ -6,7 +6,7 @@ import webbrowser
 import uuid
 import requests
 from datetime import datetime
-from scorer import RelevanceScorer
+from scorer import RelevanceScorer, PERSONAS
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -39,11 +39,11 @@ def search_serper(query, type="news"):
         print(f"Error calling Serper: {e}")
         return {}
 
-def save_signals(signals):
+def save_signals(signals, persona_id):
     """Save signals to JSON file"""
     output_dir = "public/data"
     os.makedirs(output_dir, exist_ok=True)
-    filepath = os.path.join(output_dir, "social_signals.json")
+    filepath = os.path.join(output_dir, f"{persona_id}_signals.json")
     
     transformed_data = []
     
@@ -81,12 +81,23 @@ def main():
     parser.add_argument("--sector", type=str, help="Specific sector to research (optional)")
     args = parser.parse_args()
     
-    # Default sectors to scan if none provided
-    sectors = ["Fintech", "EdTech", "Healthcare", "AI"]
+    # Default intent queries to scan if none provided
+    INTENT_QUERIES = [
+        "startup fundraising OR VC deal flow",
+        "tech competitor product launch",
+        "market volatility OR stock price action",
+        "corporate M&A OR acquisitions",
+        "new AI developer tools OR tech stack",
+        "software bug backlash OR consumer complaint",
+        "viral social media PR trend",
+        "B2B SaaS pricing changes",
+        "macro economic tech forecast",
+        "tech regulatory policy changes"
+    ]
     if args.sector:
-        sectors = [args.sector]
+        INTENT_QUERIES = [args.sector]
     
-    print(f"Starting Social Intelligence Scan for: {sectors}")
+    print(f"Starting Social Intelligence Scan for Persona Intents...")
     
     if not SERPER_API_KEY:
         print("Error: SERPER_API_KEY not found in .env")
@@ -95,16 +106,16 @@ def main():
     scorer = RelevanceScorer()
     all_raw_items = []
     
-    for sector in sectors:
+    for intent in INTENT_QUERIES:
         # Construct queries to find social/news content
         # User requested "latest posts on LinkedIn and X" and "tbm: nws"
         # We will try a mix to ensure coverage.
         
         queries = [
-            f"{sector} news site:linkedin.com",
-            f"{sector} news site:twitter.com",
-            f"{sector} news site:x.com",
-            f"{sector} industry news" # Fallback for general high signal
+            f"{intent} site:linkedin.com",
+            f"{intent} site:twitter.com",
+            f"{intent} site:x.com",
+            f"{intent} industry news" # Fallback for general high signal
         ]
         
         for q in queries:
@@ -153,12 +164,17 @@ def main():
     print(f"Collected {len(all_raw_items)} candidates. Scoring...")
     
     # Scorer now handles item objects directly to preserve metadata and link
-    final_results = scorer.score_headlines("Multi-Sector", all_raw_items)
+    for p_id, persona_data in PERSONAS.items():
+        print(f"Scoring for persona: {persona_data['role']}...")
+        final_results = scorer.score_headlines(persona_data, all_raw_items)
         
-    save_signals(final_results)
+        # Keep items that score above 60 for that specific persona
+        filtered_results = [item for item in final_results if item.get('score', 0) > 60]
+        
+        save_signals(filtered_results, p_id)
     
     # Auto-open the dashboard
-    dashboard_url = "http://localhost:5177/market-intelligence-ai-agent/"
+    dashboard_url = "http://localhost:5173/market-intelligence-ai-agent/"
     print(f"Opening dashboard at {dashboard_url}...")
     webbrowser.open(dashboard_url)
 

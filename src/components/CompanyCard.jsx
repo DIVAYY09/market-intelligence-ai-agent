@@ -6,50 +6,51 @@ const CompanyCard = ({ company, onGenerateBrief }) => {
 
     return (
         <div
+            onClick={onGenerateBrief}
             className={`
-        relative p-6 rounded-xl transition-all duration-300 group
-        backdrop-blur-md border 
+        relative p-6 rounded-sm transition-all duration-300 ease-out group cursor-pointer
+        border border-black dark:border-white/20 bg-transparent
+        hover:-translate-y-2 hover:-translate-x-1 hover:shadow-retro-hover dark:hover:shadow-retro-dark-hover
         ${isRelevant
-                    ? 'bg-amber-900/10 border-amber-500/30 shadow-[0_0_20px_-5px_rgba(245,158,11,0.2)] hover:shadow-[0_0_30px_-5px_rgba(245,158,11,0.3)] hover:border-amber-500/50'
-                    : 'bg-white/5 border-white/10 hover:bg-white/10 hover:border-white/20 hover:shadow-lg'
+                    ? 'border-2 hover:bg-white dark:hover:bg-[#F4F0EB]/10'
+                    : 'hover:bg-white dark:hover:bg-[#F4F0EB]/10'
                 }
       `}
         >
-            {isRelevant && (
-                <div className="absolute top-0 right-0 p-[1px] rounded-bl-xl rounded-tr-xl bg-gradient-to-l from-amber-500/50 to-transparent">
-                    <div className="px-3 py-1 bg-slate-900/80 backdrop-blur-sm rounded-bl-xl rounded-tr-xl border-l border-b border-amber-500/20 flex items-center gap-1.5">
-                        <span className="relative flex h-2 w-2">
-                            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75"></span>
-                            <span className="relative inline-flex rounded-full h-2 w-2 bg-amber-500"></span>
-                        </span>
-                        <span className="text-[10px] font-bold text-amber-500 tracking-wider uppercase">High Signal</span>
+            <div className="flex flex-wrap items-center justify-between gap-2 mb-4 w-full">
+                <span className="bg-retro-ink text-retro-paper dark:bg-[#2A2A2A] dark:text-[#E5E5E5] font-bold px-3 py-1 text-xs uppercase tracking-widest border border-transparent dark:border-white/10 rounded-full">{company.time}</span>
+                {isRelevant && (
+                    <div className="p-[1px] bg-black dark:bg-[#2A2A2A] rounded-sm shrink-0 border border-transparent dark:border-white/10">
+                        <div className="px-3 py-1 bg-black dark:bg-transparent flex items-center gap-1.5">
+                            <span className="relative flex h-2 w-2">
+                                <span className="relative inline-flex h-2 w-2 bg-white dark:bg-[#E5E5E5]"></span>
+                            </span>
+                            <span className="text-[10px] font-bold text-white dark:text-[#E5E5E5] tracking-wider uppercase">High Signal</span>
+                        </div>
                     </div>
-                </div>
-            )}
+                )}
+            </div>
 
             <div className="mb-4">
-                <div className="flex justify-between items-start">
-                    <span className="text-xs font-medium text-gray-500 uppercase tracking-wider">{company.ticker}</span>
-                    <span className="text-xs text-gray-600">{company.time}</span>
-                </div>
-                <h3 className="text-lg font-semibold text-white mt-1 leading-snug group-hover:text-amber-100 transition-colors">
+                <span className="text-xs font-bold uppercase tracking-wider inherit-text block">{company.ticker}</span>
+                <h3 className="text-lg font-bold mt-1 leading-snug inherit-text">
                     {company.name}
                 </h3>
             </div>
 
             <div className="space-y-4">
                 <div>
-                    <p className="text-sm text-gray-300 leading-relaxed font-light">
+                    <p className="text-sm leading-relaxed font-normal inherit-text">
                         {company.signal}
                     </p>
                 </div>
 
-                <div className="pt-4 flex items-center justify-between border-t border-white/5">
+                <div className="pt-4 flex items-center justify-between border-t border-black dark:border-white/20 group-hover:border-white dark:group-hover:border-white/20">
                     <span className={`
-            text-xs px-2.5 py-1 rounded-md font-medium border
-            ${company.sentiment === 'positive' ? 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20' :
-                            company.sentiment === 'negative' ? 'bg-rose-500/10 text-rose-400 border-rose-500/20' :
-                                'bg-slate-700/50 text-slate-400 border-slate-600/50'}
+            text-xs px-2.5 py-1 rounded-sm font-bold border border-black dark:border-white/20
+            ${company.sentiment === 'positive' ? 'bg-transparent text-inherit' :
+                            company.sentiment === 'negative' ? 'bg-transparent text-inherit' :
+                                'bg-transparent text-inherit'}
           `}>
                         {company.sentiment.charAt(0).toUpperCase() + company.sentiment.slice(1)}
                     </span>
@@ -59,14 +60,18 @@ const CompanyCard = ({ company, onGenerateBrief }) => {
                             href={company.link}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-xs font-medium text-gray-500 hover:text-white flex items-center gap-1.5 transition-colors"
+                            onClick={(e) => e.stopPropagation()}
+                            className="text-xs font-bold flex items-center gap-1.5 border border-transparent hover:border-current px-2 py-1 transition-none"
                         >
                             Read Original
                             <ExternalLink className="w-3 h-3" />
                         </a>
                         <button
-                            onClick={onGenerateBrief}
-                            className="text-xs font-semibold text-amber-400 hover:text-amber-300 transition-colors flex items-center gap-1"
+                            onClick={(e) => {
+                                e.stopPropagation();
+                                onGenerateBrief();
+                            }}
+                            className="text-xs font-bold flex items-center gap-1 border border-black dark:border-white/20 px-2 py-1 bg-transparent text-black dark:text-[#E5E5E5] hover:bg-black hover:text-white dark:hover:bg-[#E5E5E5] dark:hover:text-[#121212] transition-none rounded-sm z-10 relative"
                         >
                             Generate Brief
                             <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
